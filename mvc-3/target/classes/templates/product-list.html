@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thyleaf.org"
+	xmlns:layout="http://www.ultraq.net.nz/thymeleaf/layout"
+	layout:decorate="~{master}">
+<head>
+<meta charset="ISO-8859-1">
+<title>Product List</title>
+<!--  <th:block th:replace="common :: res"></th:block> -->
+</head>
+<body>
+	<h3 layout:fragment="sub-title">Product List</h3>
+	<a layout:fragment="add-link" th:href="@{/product/add}"
+		class="btn btn-success">Add</a>
+
+	<table class="table" layout:fragment="content-body">
+		<tr>
+			<td>ID</td>
+			<td>Name</td>
+			<td>Price</td>
+			<td>Category</td>
+			<td>Type</td>
+			<td>Photo</td>
+			<td>Action</td>
+		</tr>
+		<th:block th:each="p : ${products}">
+			<tr>
+				<td th:text="${p.id}"></td>
+				<td th:text="${p.name}"></td>
+				<td th:text="${p.price}"></td>
+				<td th:text="${p.category.name}"></td>
+				<td th:text="${p.type}"></td>
+				<td>
+					<!-- You need to create AppConfig class and implements WebMvcConfigurer and override its method -->
+					<img th:src="@{${p.photoPath}}" height="50px" width="50px"
+					th:alt="${p.photoPath}" />
+				</td>
+				<td><a th:href="@{'/products/edit/' + ${p.id}}"
+					class="text-success">Edit</a> <a
+					th:href="@{'/products/delete/' + ${p.id}}" class="text-danger">Delete</a>
+				</td>
+			</tr>
+		</th:block>
+	</table>
+</body>
+</html>

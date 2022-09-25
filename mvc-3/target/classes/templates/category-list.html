@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thyleaf.org"
+	xmlns:layout="http://www.ultraq.net.nz/thymeleaf/layout"
+	layout:decorate="~{master}">
+<head>
+<meta charset="ISO-8859-1">
+<title>Category List</title>
+<!--  <th:block th:replace="common :: res"></th:block> -->
+</head>
+<body>
+
+	<h3 layout:fragment="sub-title">Category List</h3>
+	<a layout:fragment="add-link" th:href="@{/category/add}" class="btn btn-success">Add</a>
+	<table layout:fragment="content-body" class="table">
+		<tr>
+			<td>ID</td>
+			<td>Name</td>
+			<td>Action</td>
+		</tr>
+		<th:block th:each="c : ${categories}">
+			<tr>
+				<td th:text="${c.id}"></td>
+				<td th:text="${c.name}"></td>
+				<td><a th:href="@{'/category/edit/' + ${c.id}}"
+					class="text-success">Edit</a> <a
+					th:href="@{'/category/delete/' + ${c.id}}" class="text-danger">Delete</a>
+
+					<!-- <form th:action="@{/category/delete}" th:name="myform + ${c.id}" th:method="post">
+							<input type="hidden" name="cat_id" th:value="${c.id}" />
+							<a href="javascript:alert(this.className);" class="text-danger">Delete</a>
+						</form> __--></td>
+			</tr>
+		</th:block>
+	</table>
+
+</body>
+</html>

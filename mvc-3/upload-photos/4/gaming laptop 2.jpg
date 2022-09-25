@@ -1,0 +1,4540 @@
+<!DOCTYPE html>
+<html lang="x-default">
+<head>
+    <title>MSI Vector GP76 – Born for Performance</title>
+                <!-- meta data -->
+<meta name="google-site-verification" content="AVeGj0de6qDtXM2PyoluQ7D1-3w2hvjrVwinfkORKOg"/>
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="Keywords" content="12th, RTX 3080 Ti, RGB Light, Gaming laptop, Wi-Fi 6E, 2k, QHD, 165Hz, 240Hz, Cooler, 17 inch" />
+<meta name="Description" content="Vector GP76 is a portable gaming laptop packed with up to 12th Gen. Intel® Core™ i9 processor and the NVIDIA® GeForce RTX™ 3080 Ti graphics, cooled by cooler boost 5 for extreme performance. SteelSeries Per-key RGB keyboard is best-suited for AAA titles." />
+<meta name="Author" content=""/>
+<meta name="robots" content="index,follow"/>
+<meta name="GOOGLEBOT" content="INDEX, FOLLOW"/>
+<meta name="rating" content="general"/>
+<meta name="copyright" content="msi.com. All Rights Reserved."/>
+<meta name='publisher' content="msi.com"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<link rel="shortcut icon" href=/favicon.ico?ver=201902" type="image/vnd.microsoft.icon">
+<link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="1296x1296">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<meta property="fb:app_id" content="403584056732636" />
+<meta property="fb:app_id" content="262220010572515"/>
+<meta property="og:url" content="http://www.msi.com/Laptop/Vector-GP76-12UX?%2FLaptop%2FVector-GP76-12UX=" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="MSI Vector GP76 – Born for Performance" />
+<meta property="og:description" content="" />
+<meta property="og:image" content="" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:description" content="" />
+<meta name="twitter:title" content="" />
+<meta name="twitter:image" content="" />
+<meta name="csrf-token" content="x3r1moONIL0KGFYX9g7Q0WkhKKgzWe7c1Zyg2av7">
+<link href="https://storage-asset.msi.com/template/css/web/bootstrap.min.css?v=3.3.4" rel="stylesheet">
+<script>
+                    let defaultState = 'granted',
+                CcMode = 'ccpa',
+                _recommendedState = true,
+                _lawfullBasis = 'legitimate interest';
+                // (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        //         new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        //     j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        //     'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        // })(window,document,'script','dataLayer','GTM-TQ7TTZ');
+        window.dataLayer = window.dataLayer || [];
+</script>
+</script>
+<script src="https://cc.cdn.civiccomputing.com/9/cookieControl-9.x.min.js?test=1"></script>
+
+<script>
+    let ccc_config = {
+        product: 'PRO',
+        apiKey: '700126e94c94acfaa8403e8f0a3a7112720db505',
+        mode: CcMode,
+        initialState:'top',
+        position: "left",
+        theme: "light",
+        setInnerHTML: true,
+        rejectButton: false,
+        logConsent: false,
+        onLoad: function() {
+                        window.addEventListener('scroll', function(e) {
+                let last_known_scroll_position = window.scrollY;
+                if(last_known_scroll_position > 450
+                    && document.getElementById('ccc-notify')
+                    && document.getElementById('ccc-overlay')
+                ) {
+                    CookieControl.acceptAll();
+                }
+            });
+                    },
+        necessaryCookies: ['mtc_session', 'time_session','PHPSESSID','SMFCookie751','forumtcmsicom','ref','redirect_url','event','source','msi_csrf_ck','msi_session','ocss_sessions_2018','official_session','forumenmsicom','forumesmsicom','forumfrmsicom','msiforumit','forumphmsicom','forumplmsicom','forumrumsi','msiforumth','msiforumar','directURL','agree_privacy','ComparisonList','msiToken','xf_*'],
+        text: {
+            title: 'This site uses cookies.',
+            intro:  'Some of these cookies are essential, while others help us to improve your experience by providing insights into how the site is being used.<br /><br />View our new <a href=\"/page/privacy-policy\" style=\"color: red;font-weight: bold;\">Privacy Policy</a>,  <a href=\"/page/website-terms-of-use\" style=\"color: red;font-weight: bold;\">Terms of Use</a> and <a href=\"/page/cookie-policy\" style=\"color: red;font-weight: bold;\">Cookie Policy</a> here.',
+            necessaryTitle : 'Necessary Cookies',
+            necessaryDescription : 'Necessary cookies enable core functionality. The website cannot function properly without these cookies, and can only be disabled by changing your browser preferences.',
+            thirdPartyTitle : 'Warning: Some cookies require your attention',
+            thirdPartyDescription : 'Consent for the following cookies could not be automatically revoked. Please follow the link(s) below to opt out manually.',
+            notifyTitle: 'Your choice regarding cookies on this site',
+            notifyDescription: 'We use cookies to optimize site functionality and give you the best possible experience. View our new <a href=\"/page/privacy-policy\" style=\"color: red;font-weight: bold;\">Privacy Policy</a>,  <a href=\"/page/website-terms-of-use\" style=\"color: red;font-weight: bold;\">Terms of Use</a> and <a href=\"/page/cookie-policy\" style=\"color: red;font-weight: bold;\">Cookie Policy</a> here.',
+            on: 'On',
+            off: 'Off',
+            accept: 'Accept',
+            acceptRecommended: 'Accept Recommended',
+            settings: 'Settings'
+        },
+        optionalCookies: [
+            {
+                name : 'msi_cc_analytics', // cookie name
+                label: 'Google Analytics',
+                description: 'Analytical cookies help us to improve our website by collecting and reporting information on its usage.',
+                cookies: ['_ga', '_gid', '_gat', '__utma', '__utmt', '__utmb', '__utmc', '__utmz', '__utmv'],
+                recommendedState: _recommendedState,
+                lawfulBasis: _lawfullBasis,
+                onAccept : function()
+                {
+                                        (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+                            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+                        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+                        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+                    })(window,document,'script','dataLayer','GTM-TQ7TTZ');
+                                        // dataLayer.push({
+                    //     'msi_cc_analytics': 'granted'
+                    // });
+                },
+                onRevoke: function(){
+                    // dataLayer.push({
+                    //     'msi_cc_analytics': 'denied'
+                    // });
+                }
+            },
+            {
+                name : 'msi_cc_marketing', // cookie name
+                label: 'Marketing Cookies',
+                description: 'We use marketing cookies to help us improve the relevancy of advertising campaigns you receive.',
+                recommendedState: _recommendedState,
+                lawfulBasis: _lawfullBasis,
+                //cookies: [],
+                onAccept : function(){
+                    // dataLayer.push({
+                    //     'msi_cc_marketing': 'granted'
+                    // });
+                },
+                onRevoke: function(){
+                    // dataLayer.push({
+                    //     'msi_cc_marketing': 'denied'
+                    // });
+                }
+            },
+            {
+                name : 'msi_cc_social', // cookie name
+                label: 'Social Sharing Cookies',
+                description: 'We use some social sharing plugins, to allow you to share certain pages of our website on social media',
+                recommendedState: _recommendedState,
+                lawfulBasis: _lawfullBasis,
+                //cookies: [],
+                onAccept : function(){
+                    // dataLayer.push({
+                    //     'msi_cc_social': 'granted'
+                    // });
+                },
+                onRevoke: function(){
+                    // dataLayer.push({
+                    //     'msi_cc_social': 'denied'
+                    // });
+                }
+            }
+        ],
+        branding: {
+            fontFamily: 'MSIBodyFont, "Microsoft JhengHei", "微軟正黑體", sans-serif',
+            acceptText: '#FFF',
+            acceptBackground: '#666',
+            rejectText: '#AAA',
+            rejectBackground: '#BBB',
+            toggleColor: "#666",
+            toggleBackground: "#333",
+            buttonIcon: null,
+            buttonIconWidth: "64px",
+            buttonIconHeight: "64px",
+            removeIcon: false,
+            removeAbout: true
+        }
+    };
+    CookieControl.load( ccc_config );
+</script><script>
+    var base_url = "https://www.msi.com/";
+</script>
+    
+    
+    <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js" defer="defer"></script><![endif]-->
+    <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js" defer="defer"></script><![endif]-->
+<script src="https://storage-asset.msi.com/global/js/jQuery/jquery-3.6.0.min.js"></script>
+<script type='text/javascript' src="https://storage-asset.msi.com/template/js/velocity.min.js"></script>
+<script src="https://storage-asset.msi.com/frontend/js/bootstrap.min.js"></script>
+<script>
+
+        var geoip_country_code = '';
+        jQuery(document).ready(function () {
+        var maxTime = 10000, // 10 seconds
+            startTime = Date.now();
+
+        var interval = setInterval(function () {
+                //console.log(localStorage.getItem('ccClosed'));
+                if(localStorage.getItem('ccClosed') === 'true'){
+                    $('#ccc-notify').hide();
+                    $('#ccc-overlay').hide();
+                    $('#ccc-notify').prop('visible',false);
+                }
+                else{
+                    $('#ccc-notify').show();
+                    $('#ccc-overlay').show();
+                    $('#ccc-notify').prop('visible',true);
+                }
+                if ($('#ccc-notify').is(':visible')) {
+                    $('#header').css('padding-top',$('#ccc-notify').height() + 36);
+                    clearInterval(interval);
+                } else {
+                    $('#header').css('padding-top','');
+                    if (Date.now() - startTime > maxTime) {
+                        clearInterval(interval);
+                    }
+                }
+            },
+            100 // 0.1 second (wait time between checks)
+        );
+    });
+</script>    <link rel="stylesheet" href="https://storage-asset.msi.com/frontend/css/common-msi-base.min.css">
+<link rel="stylesheet" href="https://storage-asset.msi.com/frontend/css/fonts.min.css">
+<link rel="stylesheet" href="https://storage-asset.msi.com/frontend/css/header.min.css">
+<link rel="stylesheet" href="https://storage-asset.msi.com/frontend/css/footer.min.css">
+<link rel="stylesheet" href="https://storage-asset.msi.com/template/css/product/common-pd-detail.css">
+<link href="https://storage-asset.msi.com/frontend/custom_css/common/product-feature.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" href="https://storage-asset.msi.com/frontend/imgs/nb/header/style.css" />
+<link rel="stylesheet" href="https://storage-asset.msi.com/frontend/custom_css/productHead/productHead.css">        <link rel="stylesheet" href="https://storage-asset.msi.com/frontend/custom_css/common/common-msi-base.css?ver=20220704">
+<link rel="stylesheet" href="https://storage-asset.msi.com/frontend/css/fonts.min.css?ver=20210806">
+<link rel="stylesheet" href="https://storage-asset.msi.com/frontend/custom_css/footer.css">
+<link rel="stylesheet" href="https://storage-asset.msi.com/frontend/css/accessibility.min.css?ver=20210825">
+
+<link rel="stylesheet" href="https://storage-asset.msi.com/frontend/css/swiper-5.4.5.min.css">
+
+<!-- <link rel="stylesheet" href="https://event.msi.com/menu-fonticon/common-msi-icons.css?ver=2022030301"> -->
+<!-- <link rel="stylesheet" href="https://storage-asset.msi.com/template/css/msi-product-2020/common-msi-icons.css"> -->
+<!-- <link rel="stylesheet" href="https://storage-asset.msi.com/frontend/css/common-msi-icons.css?ver=20220322"> -->
+<link rel="stylesheet" href="https://storage-asset.msi.com/frontend/css/common-icon/common-msi-icons.css?ver=20220727-1">
+
+<link rel="stylesheet" href="https://storage-asset.msi.com/frontend/custom_css/menuBar/menu.css"> 
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Icons">
+<script src="https://storage-asset.msi.com/frontend/js/vue-3.0.2.prod.min.js"></script>
+<script src="https://storage-asset.msi.com/frontend/js/swiper-5.4.5.min.js"></script>        <link href="https://storage-asset.msi.com/template/css/fonts/msi-buttonicons/msi-buttonicons.css" rel="stylesheet" type="text/css">
+<link href="https://storage-asset.msi.com/template/css/web/navbar-site.css?v=0.01" rel="stylesheet" type="text/css">
+<link href="https://storage-asset.msi.com/template/css/web/navbar-page.css?v=0.05" rel="stylesheet" type="text/css">
+<link href="https://storage-asset.msi.com/template/css/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+<link href="https://storage-asset.msi.com/template/css/product/nb/laptop-template.css?v=2018051611" rel="stylesheet" type="text/css" >
+<link href="https://storage-asset.msi.com/template/css/product/nb/menu.css?v=2018052106" rel="stylesheet" type="text/css" >
+<link href="https://storage-asset.msi.com/template/css/product/nb/nb-temp-featuretab.css" rel="stylesheet" type="text/css" >
+<link href="https://storage-asset.msi.com/template/css/product/nb/jquery.fancybox.min.css" rel="stylesheet" type="text/css" >
+<link href="https://storage-asset.msi.com/template/css/product/nb/style.css" rel="stylesheet" type="text/css" >
+<link href="https://storage-asset.msi.com/template/css/product/nb/tab.css" rel="stylesheet" type="text/css" >
+<link href="https://storage-asset.msi.com/template/css/product/common-pd-detail.css" rel="stylesheet" type="text/css">
+<link href="https://storage-asset.msi.com/frontend/custom_css/common/product-feature.css" rel="stylesheet" type="text/css">
+<!-- repeat loading -->
+<link rel='stylesheet prefetch' href='https://storage-asset.msi.com/template/css/third-party/slick-carousel/1.6.0/slick.min.css'>
+<link rel='stylesheet prefetch' href='https://storage-asset.msi.com/template/css/third-party/slick-carousel/1.6.0/slick-theme.min.css'>
+
+<style>
+    .buy-now-tag {
+        position: fixed;
+        width: 70px;
+        height: 70px;
+        right: 0;
+        bottom: 0;
+    }
+    
+    .triangle-red {
+        position: absolute;
+        right: 0;
+        bottom: 0;
+        width: 0;
+        height: 0;
+        border-style: solid;
+        border-width: 0 0 70px 70px;
+        border-color: transparent transparent #000000 transparent;
+    }
+    
+    .cart-icon {
+        position: absolute;
+        width: 30px;
+        height: 34px;
+        right: 0;
+        bottom: 0;
+        color: #fff;
+        font-size: 20px;
+    }
+    #overview.gaming{
+        display: block;
+        overflow: hidden;
+        background: -webkit-linear-gradient(#1f1f1f,#000);
+        background: -o-linear-gradient(#1f1f1f,#000);
+        background: -moz-linear-gradient(#1f1f1f,#000);
+        background: linear-gradient(#1f1f1f,#000);
+        padding-top: 3%;
+        padding-bottom: 2%;
+    }
+    #overview.nbclass{
+        display: block;
+        overflow: hidden;
+        background: -webkit-linear-gradient(#e8e8e8, #fff);
+        background: -o-linear-gradient(#e8e8e8, #fff);
+        background: linear-gradient(#e8e8e8, #fff);
+        padding-top: 3%;
+        padding-bottom: 2%;
+    }
+    #overview.class{
+        display: block;
+        overflow: hidden;
+        background: -webkit-linear-gradient(#e8e8e8, #fff);
+        background: -o-linear-gradient(#e8e8e8, #fff);
+        background: linear-gradient(#e8e8e8, #fff);
+        padding-top: 3%;
+        padding-bottom: 2%;
+    }
+    #overview .slideshow {
+        position: relative;
+        z-index: 1;
+        height: 100%;
+        max-width: 70%;
+        margin: 50px auto;
+    }
+    #overview ul{
+        margin-left: 22px;
+    }
+    #overview .specifno{
+        padding-top: 8%;
+    }
+    #overview.gaming .spec{
+        color: #fff;
+        font-size: 1.5vh;
+        padding: 1% 0;
+    }
+    #overview.nbclass .spec{
+        font-size: 2vh;
+        color: #666;
+        padding-left:0px;
+    }
+    #overview.class .spec{
+        font-size: 2vh;
+        color: #666;
+        padding-left:0px;
+    }
+    #overview .slideshow * {
+        outline: none;
+    }
+    #overview .slideshow .slider-track {
+        -webkit-transition: all 1s cubic-bezier(0.7, 0, 0.3, 1);
+        transition: all 1s cubic-bezier(0.7, 0, 0.3, 1);
+    }
+    #overview .slideshow .item {
+        height: 100%;
+        position: relative;
+        z-index: 1;
+    }
+    #overview .slideshow .item img {
+        width: 100%;
+        -webkit-transition: all 1s cubic-bezier(0.7, 0, 0.3, 1);
+        transition: all 1s cubic-bezier(0.7, 0, 0.3, 1);
+        -webkit-transform: scale(1.2);
+        transform: scale(1.2);
+    }
+
+    #overview .slideshow .item.slick-active img {
+        -webkit-transform: scale(1);
+        transform: scale(1);
+        animation: fadeinttitle 1s;
+        animation-iteration-count: infinite;
+        animation-direction: alternate;
+        position:absolute;
+        top: 0;
+        z-index: 99;
+    }
+
+
+    @media  screen and (min-width: 300px) and (max-width: 767px){
+        #overview .slideshow {
+            position: relative;
+            z-index: 1;
+            height: 100%;
+            max-width: 100%;
+            margin: 0px auto;
+        }
+        #overview .spec {
+            color: #fff;
+            font-size: 2vh;
+            padding: 1% 0;
+        }
+
+    }
+    .nbclass .specifno{
+        color: #000;
+    }
+    .class .specifno{
+        color: #000;
+    }
+    .gaming .specifno{
+        color: #fff;
+    }
+    @media  screen and (max-width: 787px){
+        #myTab>li>a>span>img.image-main{
+            display: none;
+        }
+        #myTab>li.active>a>span>img.image-main{
+            display: block;
+        }
+        .nav-tabs-responsive>li.active{
+            display: table-cell!important;
+        }
+        .nav-tabs-responsive>li.next{
+            display: table-cell;
+        }
+        .nav-tabs-responsive>li.prev{
+            display: table-cell;
+        }
+        .btn-light{
+            background-color: #ccc !important;
+        }
+    }
+    @media  screen and (max-width: 787px){
+        .navbar-page .navbar-nav {
+            min-width: 300px;
+        }
+    }
+    .specifno  h2 {
+        font-size: 28px !important;
+    }
+    @media  screen and (max-width: 768px) {
+        .specifno  h2 {
+            text-align: center;
+        }
+    }
+</style>
+    
+            <link href="https://storage-asset.msi.com/global/css/NB/nb-block-temp-v3.css" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" type="text/css" href="https://asset.msi.com/global/css/twentytwenty.css">
+<script src="https://asset.msi.com/global/js/NB/rubyslider.js"></script>
+
+<link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css" />
+<link rel="stylesheet" type="text/css" href="https://storage-asset.msi.com/global/picture/image/feature/nb/vector-gp76/slick-theme.css" />
+<link href="https://storage-asset.msi.com/global/css/owl.carousel.min.css" rel="stylesheet" type="text/css" />
+<script src="https://storage-asset.msi.com/global/js/owl.carousel.min.js"></script>
+<link rel="stylesheet" type="text/css" href="https://storage-asset.msi.com/global/picture/image/feature/nb/2020_CML/GE/GE66/swiper.min.css">
+<script src="https://storage-asset.msi.com/global/picture/image/feature/nb/2020_CML/GE/GE66/swiper.min.js"></script>
+
+<link href="https://storage-asset.msi.com/global/css/NB/style-gs66.css" rel="stylesheet">
+<link rel="stylesheet" type="text/css" href="https://storage-asset.msi.com/global/css/YouTubePopUp.css">
+<script src="https://storage-asset.msi.com/global/js/YouTubePopUp.jquery.js"></script>
+
+ <!--delighters-->
+<script src="https://storage-asset.msi.com/global/js/delighters.min.js"></script>
+
+
+<!-- GP76 css -->
+<link href="https://storage-asset.msi.com/global/picture/image/feature/nb/GP76-RTX30/fonts.css" rel="stylesheet">
+<link href="https://storage-asset.msi.com/global/picture/image/feature/nb/GP76-RTX30/aos.css" rel="stylesheet">
+<link rel="stylesheet" type="text/css" href="https://storage-asset.msi.com/global/picture/image/feature/nb/GP76-RTX30/jquery.fancybox.min.css">
+<link href="https://storage-asset.msi.com/global/picture/image/feature/nb/GP76-11th-RTX30/nb-gp76-11th-v1.css" rel="stylesheet">
+<link href="https://storage-asset.msi.com/global/picture/image/feature/nb/GP76-11th-RTX30/visuals.css" rel="stylesheet">
+
+
+<!-- GP76 js -->
+<script src="https://storage-asset.msi.com/template/js/wow.min.js" type="text/javascript"></script>
+<script src='https://storage-asset.msi.com/template/js/slick.min.js'></script>
+<script src="https://storage-asset.msi.com/global/picture/image/feature/nb/GP76-RTX30/easeljs-0.8.1.min.js"></script>
+<script src="https://storage-asset.msi.com/global/picture/image/feature/nb/GP76-RTX30/tweenjs-0.6.1.min.js"></script>
+<script src="https://storage-asset.msi.com/global/picture/image/feature/nb/GP76-RTX30/movieclip-0.8.1.min.js"></script>
+<script src="https://storage-asset.msi.com/global/picture/image/feature/nb/GP76-RTX30/preloadjs-0.6.1.min.js"></script>
+<script src="https://storage-asset.msi.com/global/picture/image/feature/nb/GP76-RTX30/jquery.fancybox.min.js"></script>
+<script src="https://storage-asset.msi.com/global/picture/image/feature/nb/GP76-RTX30/GP76.js" type="text/javascript"></script>
+<script src="https://storage-asset.msi.com/global/picture/image/feature/nb/GP76-RTX30/aos.js"></script>
+<script>
+    AOS.init();
+</script>
+<!--win 11-->
+<script src="https://storage-asset.msi.com/global/picture/image/feature/nb/w11/js/nb_intel_script.js" type="text/javascript"></script>    
+                              <script>!function(a){var e="https://s.go-mpulse.net/boomerang/",t="addEventListener";if("False"=="True")a.BOOMR_config=a.BOOMR_config||{},a.BOOMR_config.PageParams=a.BOOMR_config.PageParams||{},a.BOOMR_config.PageParams.pci=!0,e="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="9Q5ZR-3DTNR-PV5UD-ERE35-DD5R6",function(){function n(e){a.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!a.BOOMR||!a.BOOMR.version&&!a.BOOMR.snippetExecuted){a.BOOMR=a.BOOMR||{},a.BOOMR.snippetExecuted=!0;var i,_,o,r=document.createElement("iframe");if(a[t])a[t]("load",n,!1);else if(a.attachEvent)a.attachEvent("onload",n);r.src="javascript:void(0)",r.title="",r.role="presentation",(r.frameElement||r).style.cssText="width:0;height:0;border:0;display:none;",o=document.getElementsByTagName("script")[0],o.parentNode.insertBefore(r,o);try{_=r.contentWindow.document}catch(O){i=document.domain,r.src="javascript:var d=document.open();d.domain='"+i+"';void(0);",_=r.contentWindow.document}_.open()._l=function(){var a=this.createElement("script");if(i)this.domain=i;a.id="boomr-if-as",a.src=e+"9Q5ZR-3DTNR-PV5UD-ERE35-DD5R6",BOOMR_lstart=(new Date).getTime(),this.body.appendChild(a)},_.write("<bo"+'dy onload="document._l();">'),_.close()}}(),"".length>0)if(a&&"performance"in a&&a.performance&&"function"==typeof a.performance.setResourceTimingBufferSize)a.performance.setResourceTimingBufferSize();!function(){if(BOOMR=a.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var e=""=="true"?1:0,t="",n="m7u446qxyixsqyzjwuqa-f-0ea720cb5-clientnsv4-s.akamaihd.net",i="false"=="true"?2:1,_={"ak.v":"32","ak.cp":"749176","ak.ai":parseInt("163150",10),"ak.ol":"0","ak.cr":56,"ak.ipv":4,"ak.proto":"h2","ak.rid":"9d3ecf0","ak.r":26635,"ak.a2":e,"ak.m":"b","ak.n":"essl","ak.bpcip":"103.233.206.0","ak.cport":55368,"ak.gh":"49.231.112.165","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.csrc":"-","ak.acc":"","ak.t":"1663677728","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==Cs/iSALkxpjmmh+ApWvz6N99+5pAkvtjAtSfOZ8GCQpGjt0vnYDxp0Vyd8y5Y9ddySLAF5ch0eoCUCtwEIdm8as3SJRai0mJ4Oi0KQOrlEIwKsySnAKDker6fPDczNH7Y0JoKvJDVcYvN+p/s9qgeEVzmQqDp63bgcgDIbUQtAheFJozntxUEph1cstjdwd+L69J+gVY2K/Gipdro9ZxFNmlxtK/ZuB7BOgBhMI67k/X2Z/XkVOeXyJfr67qNt3uWVu9XtBHsUcnWJKMAjSapMFTGz8eta1MKHBdW8NbbCbUolmLTpR0FTywwyntojcZNAZEQHV89F+nNSWrRQhoG8SOjly3J8Yh7xecY4Rk2Jg1Lr4c+f89Q8wFtJ/3kI8p7UdPsYdUWe3YaZyD+omMtsbSn19TPCnRIoxiWezJ5uc=","ak.pv":"188","ak.dpoabenc":"","ak.tf":i};if(""!==t)_["ak.ruds"]=t;var o={i:!1,av:function(e){var t="http.initiator";if(e&&(!e[t]||"spa_hard"===e[t]))_["ak.feo"]=void 0!==a.aFeoApplied?1:0,BOOMR.addVar(_)},rv:function(){var a=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(a)}};BOOMR.plugins.AK={akVars:_,akDNSPreFetchDomain:n,init:function(){if(!o.i){var a=BOOMR.subscribe;a("before_beacon",o.av,null,null),a("onbeacon",o.rv,null,null),o.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script></head>
+<body>
+    <header id="msiHeader">
+    <nav class="msiNav">
+        <div class="mainArea msiNav__container">
+            <button class="mainArea__hamburger" @click.prevent.stop="toggleMobileMenu">
+                <transition name="fadeFaster" mode="out-in">
+                    <span v-if="!showMobileMenu" class="icon-msi-nav"></span>
+                    <span v-else class="icon-msi-close customClose" :class="{showClose: showMobileMenu}"></span>
+                </transition>
+            </button>
+            <div class="mainArea__main">
+                <a class="homeLink" :href="logo.url">
+                    <picture class="homeLink__logo">
+                        <source 
+                            media="(min-width: 1200px)" 
+                            :srcset="logo.image"
+                        >
+                        <img :src="logo.mobile" :alt="logo.alt">
+                    </picture>
+                </a>
+                <div class="menuAction">
+                    <div class="menuAction__item" 
+                        v-for="(item,index) in menu" 
+                        :key="item.title"
+                        :class="{'menuAction__item--active':currentMenu === index}"
+                        >
+                        <a v-if="item.url" :target="item.target" :href="item.url" class="navLink">
+                            {{ item.title }}
+                        </a>
+                        <button v-else class="navDrop" @click.prevent.stop="togglePCMenu(item,index)">
+                            {{ item.title }}
+                        </button>
+                    </div>
+                </div>
+            </div>
+            <div class="mainArea__operations">
+                <div class="operationAction">
+                    <button class="opDrop" @click.prevent.stop="checkMsiToken()">
+                        <span class="icon-msi-user"></span>
+                    </button>
+                </div>
+                <div class="operationAction actionCustom">
+                    <a :href="whereToBuy.url" class="opLink">
+                        <span class="icon-msi-wtb"></span>
+                    </a>
+                </div>
+                <div class="operationAction">
+                    <button class="opDrop" @click.prevent.stop="toggleSearch">
+                        <span class="icon-msi-search"></span>
+                    </button>
+                </div>
+                <div class="operationSubLogo" v-if="subLogo.image">
+                    <a class="subLink" :href="subLogo.url">
+                        <img class="subLink__img" :src="subLogo.image" :alt="subLogo.alt">
+                    </a>
+                </div>
+
+                <transition name="fade">
+                    <component 
+                        :is="showMemberCard" 
+                        :key="showMemberCard" 
+                        :member-data="memberData"
+                        @logout="logoutMember"
+                    ></component>
+                </transition>
+            </div>
+        </div>
+        <div class="navLoading" v-if="isLoading">
+            <div class="navLoading__circle"></div>
+        </div>
+    </nav>
+    <transition name="fade">
+        <component :is="showMenu" :key="showMenu"  :menu-config="menuConfig" :product-line-translation="productLineTranslation"></component>
+    </transition>
+
+    <transition name="fade">
+        <component :is="showMobileMenu" :key="showMobileMenu" :mobile-menu="mobileMenu"></component>
+    </transition>
+
+    <transition name="fade">
+        <component 
+            :is="showSearch" 
+            :key="showSearch"
+            :search-list="searchList"
+            :init-keyword="initKeyword"
+            @remove-search="showSearch=null"
+            menu-style="dropDownMenu"
+            >
+        </component>
+    </transition>
+</header>
+<script src="https://storage-asset.msi.com/frontend/js/axios.min.js"></script>
+<script type="module" src="https://storage-asset.msi.com/frontend/js/js.cookie.min.js"></script>
+<script src="https://storage-asset.msi.com/frontend/js/dayjs.min.js"></script>
+<script type="module">
+    import odm from "https://storage-asset.msi.com/frontend/js/menuBar/ODMSolution.js"
+    import product from "https://storage-asset.msi.com/frontend/js/menuBar/Product.js"
+    import whatNew from "https://storage-asset.msi.com/frontend/js/menuBar/WhatNew.js"
+    import defaultNav from "https://storage-asset.msi.com/frontend/js/menuBar/DefaultNav.js"
+    import search from "https://storage-asset.msi.com/frontend/js/menuBar/Search.js"
+    import mobileMenu from "https://storage-asset.msi.com/frontend/js/menuBar/mobile/MobileMenu.js"
+    import memberCard from "https://storage-asset.msi.com/frontend/js/menuBar/MemberCard.js"
+    // const memberUri = "https://account.msi.com"
+    const memberUri = "https://account.msi.com"
+    const msiHeader = {
+        components:{
+            odm,
+            product,
+            whatNew,
+            defaultNav,
+            search,
+            mobileMenu,
+            memberCard
+        },
+        data(){
+            return {
+                isLoading:true,
+                showMenu:null,
+                showMobileMenu:null,
+                showSearch:null,
+                showMemberCard:null,
+                menuConfig:{},
+                currentMenu: null,
+                searchList:[],
+                memberUri,
+                memberData:{
+                    email: "",
+                    name: "",
+                    logout_url:"",
+                    profile_url:"",
+                    avatar:null
+                },
+                logo:{
+                    img:"https://storage-asset.msi.com/frontend/imgs/2021-msi-web_banner-gaming_h_b.png",
+                    mobile:"https://storage-asset.msi.com/frontend/imgs/2021-msi-series_logo-gaming.png",
+                    alt:"test",
+                    url:"www.google.com"
+                },
+                subLogo:{
+                    img:"https://storage-asset.msi.com/frontend/imgs/logo-right.png",
+                    alt:"test2",
+                    url:"www.google.com"
+                },
+                whereToBuy:{
+                    url: "https://www.msi.com/service/wheretobuy#1"
+                },
+                menu:[
+                    {
+                        title:"Store",
+                        url:null,
+                        component:"defaultNav",
+                        id: 321
+                    },
+                    {
+                        title:"Products",
+                        url:null,
+                        component:"product",
+                        id:123
+                    },
+                    {
+                        title:"ODM solutions",
+                        url: null,
+                        component:"odm",
+                        id:456
+                    },
+                    {
+                        title:"What's New",
+                        url: null,
+                        component:"whatNew",
+                        id:789
+                    },
+                    {
+                        title:"Support",
+                        url: "www.google.com",
+                        component:"test",
+                        id:876656
+                    }
+                ],
+            }
+        },
+        computed:{
+            // test(){
+            //     return location.pathname.split("/")[1];
+            // },
+            isProductLine(){
+                return location.pathname.split("/")[1];
+            },
+            initKeyword(){
+                if(!this.isSearchPage) return
+                const isMore = location.pathname.split("/").pop() === "more";
+                const defaultKeyWord = location.pathname.split("/").pop();
+                const moreInfoKeyWord = location.pathname.split("/").slice(-2)[0];
+                return isMore ? moreInfoKeyWord : defaultKeyWord;
+            },
+            isSearchPage(){
+                return this.isProductLine === "search";
+            }
+        },
+        created(){
+            this.initNav();
+        },
+        mounted() {
+            this.bindingWhiteSpaceEvent();
+            this.bindingResizeEvent();
+        },
+        methods:{
+            async initNav(){
+                try {
+                    const [searchList,nav] = await Promise.all([this.fetchSearchList(),this.fetchNavData()])
+                    this.searchList = searchList.list;
+                    this.productLineTranslation = nav.data.translation
+                    this.logo = nav.data.logo;
+                    this.subLogo = nav.data.subLogo;
+                    this.whereToBuy = nav.data.whereToBuy;
+                    this.menu = nav.data.menu;
+                    this.menuList = nav.data.menulist;
+                    this.mobileMenu = {
+                        menu: this.menu,
+                        menuList: this.menuList
+                    };
+                    this.isLoading = false;
+                }catch(err){
+                    console.log(err);
+                }
+            },
+            async fetchNavData(){
+                try {
+                    const url = this.isSearchPage? "/api/get/menu" : `/api/get/menu?productline=${this.isProductLine}`;
+                    const res = await axios.get(url);
+                    return  {...res.data};
+                }catch(err){
+                    return Promise.reject(err);
+                }
+            },
+            async fetchSearchList() {
+                try {
+                    const res = await axios.get('/api/v1/search/product-list');
+                    return  {...res.data};
+                }catch(err){
+                    return Promise.reject(err);
+                }
+            },
+            checkMsiToken(){
+                const msiToken= Cookies.get('msiToken');
+                if(msiToken){
+                    this.checkLocalData(msiToken);
+                }else {
+                    location.href = `${this.memberUri}`;
+                }
+            },
+            checkLocalData(token){
+                if(this.showMemberCard) return this.toggleMemberCard();
+                const profile = JSON.parse(sessionStorage.getItem('profileData')) || "";
+                profile ? this.isStorageExpired(profile,token) : this.initMemberProfile(token);
+            },
+            isStorageExpired(profile,token){
+                const timeLimit = 60;
+                const currentTime = dayjs().format("YYYY-MM-DD H:mm:ss");
+                const moreThanAHour = dayjs(currentTime).diff(dayjs(profile.loginTime),"minutes") > timeLimit;
+                moreThanAHour? this.initMemberProfile(token) : this.getLocalData(profile);
+            },
+            getLocalData(profile){
+                this.memberData = profile;
+                this.toggleMemberCard();
+            },
+            logoutMember(){
+                const logout = JSON.parse(sessionStorage.getItem('profileData')).logout_url;
+                this.showMemberCard = null;
+                this.removeLocalData();
+                location.href = logout;
+            },
+            async initMemberProfile(token){
+                try {
+                    const res = await this.fetchMemberProfile(token);
+                    const loginTime = dayjs().format("YYYY-MM-DD H:mm:ss");
+                    sessionStorage.setItem("profileData",JSON.stringify({...res,loginTime}));
+                    this.memberData = res;
+                    this.toggleMemberCard();
+                }catch(err){
+                    this.showMemberCard = null;
+                    this.removeLocalData();
+                    console.log(err);
+                }
+            },
+            async fetchMemberProfile(token){
+                const config = {
+                    headers:{
+                        "Content-Type": "application/json",
+                        Accept: "application/json",
+                        Authorization:`Bearer ${token}`
+                    }
+                }
+                try {
+                    const res = await axios.get(`${this.memberUri}/api/officialSite/profile`, config);
+                    return {...res.data};
+                }catch(err){
+                    return Promise.reject(err);
+                }
+            },
+            removeLocalData(){
+                sessionStorage.removeItem("profileData");
+                sessionStorage.removeItem("loginTime");
+                Cookies.remove('msiToken');
+            },
+            toggleMemberCard(){
+                this.currentMenu = null;
+                this.showMenu = null;
+                this.showMobileMenu = null;
+                this.showSearch = null;
+                this.showMemberCard = this.showMemberCard? null: 'memberCard';
+            },
+            toggleSearch(){
+                this.currentMenu = null;
+                this.showMenu = null;
+                this.showMobileMenu = null;
+                this.showMemberCard = null;
+                this.showSearch = this.showSearch? null: 'search';
+                document.body.style ="";
+            },
+            togglePCMenu({component,id},index){
+                this.showMemberCard = null;
+                this.showSearch = null;
+                const isNotOriginComponent = this.currentMenu !== index && this.showMenu === component;
+                if(isNotOriginComponent){
+                    this.currentMenu = index;
+                    this.showMenu = component;
+                }
+                else {
+                    this.currentMenu = this.currentMenu === index ? null : index;
+                    this.showMenu = this.showMenu === component ? null : component;
+                }     
+                this.menuConfig = this.menuList[id];
+            },
+            toggleMobileMenu(){
+                this.showMemberCard = null;
+                this.showSearch = null;
+                if(this.showMobileMenu){
+                    this.showMobileMenu = null;
+                    document.body.classList.remove("hiddenFlow") ;
+                }else{
+                    this.showMobileMenu = 'mobileMenu';
+                    document.body.classList.add("hiddenFlow") ;
+                }
+            },
+            bindingResizeEvent(){
+                window.addEventListener("resize", this.autoTurnOffMenu(event));
+            },
+            bindingWhiteSpaceEvent() {
+                document.addEventListener("click", this.turnOffMenu);
+            },
+            autoTurnOffMenu(){
+                return (event)=>{
+                    const isLargeScreen = event.target.innerWidth > 1200;
+                    if(isLargeScreen){
+                        this.showMobileMenu = null;
+                        this.currentMenu = null;
+                        document.body.classList.remove("hiddenFlow") ;
+                    }else{
+                        this.showMenu = null;
+                    }
+                }    
+            },
+            turnOffMenu() {
+                this.showMemberCard = null;
+                this.currentMenu = null;
+                this.showMenu = null;
+                this.showMobileMenu = null;
+                this.showSearch = null;
+                document.body.classList.remove("hiddenFlow") ;
+            },
+        }
+
+    }
+    Vue.createApp(msiHeader).mount("#msiHeader")
+</script>
+<link rel="stylesheet" href="https://storage-asset.msi.com/frontend/css/common-icon-menu/style.css?ver=20220727-1">        
+    <div id="productHeader">
+    <nav class="productNav">
+        <div class="productHeader__container">
+            <h3 class="productNav__title">{{productLine}}</h3>
+            <div class="productNav__mainNav">
+                <h1 class="productNav__mainNav__title" v-html="title"></h1>
+                <div class="productNav__mainNav__operation">
+                    <div class="productMenu">
+                        <a v-for="(data,index) in menu" 
+                            :key="data.name" 
+                            class="productMenu__item"
+                            :class="[{'productMenu__item--active':currentPage === index}, subBrandStyle]" 
+                            :href="data.url"
+                            >
+                            {{data.name}}
+                        </a>
+                    </div>
+
+                    <button @click.prevent="isShow = !isShow" 
+                            class="productNav__mainNav__arrow" 
+                            :class="{'productNav__mainNav__arrow--active':isShow}"
+                            >
+                        <span class="buyNowArrowCustom icon-productHeader-down-chevron"></span>
+                    </button>
+
+                    <div class="productNav__mainNav__buyNow">
+                        <a class="buyLink" :class="subBrandStyle" :href="store.url">
+                            <span class="buyLink__title">{{store.name}}</span>
+                            <span class="icon-productHeader-buynow buyLink__icon"></span>
+                        </a>
+                    </div>
+
+                </div>
+
+            </div>
+        </div>
+        
+    </nav>
+    <transition name="drop">
+        <div class="productDropdown" :class="{'productDropdown--active':isShow}" v-if="isShow">
+            <div class="productDropdown__row">
+                <div class="productDropdown__row__col" 
+                    v-for="(data,index) in menu" 
+                    :key="data.name">
+                    <a 
+                        class="linkItem"
+                        :class="{'mobile--active':currentPage === index}" 
+                        :href="data.url"
+                        >
+                        {{data.name}}
+                    </a>
+                </div>
+            </div>
+        </div>
+    </transition>
+    <div class="loading" v-if="isLoading"></div>
+</div>
+
+<script type="text/javascript" src="https://storage-asset.msi.com/template/js/wow.min.js"></script>
+<script type="module">
+    const productHeader = {
+        data(){
+            return{
+                isLoading: true,
+                isShow: false,
+                isSticky:0,
+                productLine:"Productline",
+                title:"Product Title",
+                menu:[],
+                subBrandStyle:null,
+                store:{
+                    name:"buy now",
+                    url:"www.msi.com"
+                }
+            }
+        },
+        computed:{
+            currentPage(){
+                const isPreview = location.pathname.split("/")[1] === "preview";
+                const isInsidePage = location.pathname.split("/")[3];
+                const insidePage = isInsidePage ? isInsidePage :"Overview";
+                const page = isPreview? location.pathname.split("/")[4] : insidePage;
+                const notFound = -1;
+                const result = this.menu.findIndex(menuData=>menuData.origin === page);
+                if(result === notFound) return;
+                return result;
+            },
+            isOverview(){
+                const isPreview = location.pathname.split("/")[1] === "preview";
+                const isInsidePage = isPreview?location.pathname.split("/")[4] :location.pathname.split("/")[3];
+                return (!isInsidePage || isInsidePage === "Overview")
+            },
+        },
+        created(){
+            this.initNav();
+        },
+        mounted(){
+            this.bindingResizeEvent();
+        },
+        beforeUnmounted(){
+            this.removeResizeEvent();
+        },
+        methods:{
+            async initNav(){
+                const isPreview = location.pathname.split("/")[1] === "preview";
+                const result = isPreview? this.previewParameter() : this.officialParameter();
+                await this.renderNav(result);
+                this.checkSticky();
+                this.isLoading = false;
+            },
+            async renderNav(param){
+                try {
+                    const {result} = await this.fetchNavAPI(param);
+                    this.productLine = result.productline;
+                    this.title = result.title;
+                    this.menu = result.menu;
+                    this.subBrandStyle = result.style
+                    this.store = result.store;
+                    this.isSticky = this.isOverview ? result.is_sticky : 0;
+                    
+                }catch(err){
+                    console.log(err);
+                }
+            },
+            async fetchNavAPI({productLink,countryCode}){
+                try {
+                    const res = await fetch(`/api/get/ProductHeader?product_link=${productLink}&country_code=${countryCode}`);
+                    return res.json();
+                }catch(err){
+                    return err;
+                }
+            },
+            previewParameter(){
+                const countryCode = location.search.split("=").pop();
+                const productLink= location.pathname.split("/")[3].split("?")[0];
+                return {
+                    countryCode,
+                    productLink
+                };
+            },
+            officialParameter(){
+                const isGlobal = location.hostname.split(".")[0] === "www";
+                const countryCode = isGlobal? "global" : location.hostname.split(".")[0];
+                const productLink = location.pathname.split("/")[2];
+                return {
+                    countryCode,
+                    productLink
+                };
+            },
+            checkSticky(){
+                if(this.isSticky) return;
+                const productHeader = document.querySelector("#productHeader");
+                productHeader.classList.add("noStick");
+            },
+            bindingResizeEvent(){
+                window.addEventListener("resize", this.turnOffDropdown(event));
+            },
+            removeResizeEvent(){
+                window.removeEventListener("resize", this.turnOffDropdown(event));
+            },
+            turnOffDropdown(event){
+                return (event)=>{
+                    const isBigScreen = event.target.innerWidth > 1200;
+                    if(isBigScreen) this.isShow = false;
+                }
+            }
+        }
+    }
+    Vue.createApp(productHeader).mount("#productHeader");
+</script>
+<script>
+    var productId = "240198";
+    var productCountry = "global";
+    var productShopNowLink = "http://www.msi.com/Laptop/Vector-GP76-12UX/shopnow";
+</script>    <div>
+<section class="gaming  product-mainbox" id="product"  >
+    <style>
+
+.kv {
+  background-color: #000;
+  position: relative;
+  text-align: center;
+}
+
+.kv__pic {
+  width: 100%;
+}
+
+.kv__pd {
+  position: absolute;
+  top: 37%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+  width: 35%;
+}
+
+
+
+@media (max-width: 960px) {
+  .kv__pd {
+    display: none;
+  }
+}
+
+.kv__iconLeft {
+  position: absolute;
+  top: 36px;
+  left: 18px;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+}
+
+.kv__iconLeft img {
+  width: 70px;
+  margin: 0 18px;
+}
+
+@media (max-width: 960px) {
+   .kv__iconLeft {
+      position: relative;
+      top: 0px;
+      left: 0px;
+      display: flex;
+      justify-content: center;
+      align-items: flex-start;
+    } 
+}
+
+@media (max-width: 960px) {
+  .kv__iconLeft {
+    display: none;
+  }
+}
+
+.kv__iconLeftMobile {
+  display: none;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  margin-bottom: 36px;
+}
+
+@media (max-width: 960px) {
+  .kv__iconLeftMobile {
+    display: block;
+  }
+  .kv__iconLeftMobile img {
+    width: 55px;
+    margin: 0 18px;
+  }
+}
+
+.kv__icon {
+  position: absolute;
+  text-align: right;
+  top: 36px;
+  right: 36px;
+  font-size: 11px;
+  line-height: 2em;
+}
+
+.kv__icon img {
+  width: 75px;
+  margin-bottom: 36px;
+}
+
+@media (max-width: 960px) {
+  .kv__icon {
+    display: none;
+  }
+}
+
+.kv__iconMobile {
+  display: none;
+}
+
+@media (max-width: 960px) {
+  .kv__iconMobile {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    margin: 36px 0 72px;
+  }
+  .kv__iconMobile img {
+    width: 70px;
+  }
+  .kv__iconMobile span {
+    text-align: left;
+    margin-left: 36px;
+    font-size: 12px;
+  }
+}
+
+.kv__titleBox {
+  position: absolute;
+  width: 60%;
+  bottom: 4%;
+  left: 50%;
+  -webkit-transform: translate(-50%, 0);
+          transform: translate(-50%, 0);
+}
+
+@media (max-width: 1366px) {
+  .kv__titleBox {
+    width: 80%;
+  }
+}
+
+@media (max-width: 960px) {
+  .kv__titleBox {
+    position: relative;
+    width: 90%;
+    -webkit-transform: translate(-50%, 0%);
+            transform: translate(-50%, 0%);
+  }
+}
+
+@media (max-width: 1366px) {
+  .kv__titleBox-pic {
+    width: 37%;
+  }
+}
+
+@media (max-width: 960px) {
+  .kv__titleBox-pic {
+    width: 80%;
+  }
+}
+
+.kv__titleBox-btn {
+  display: inline-block;
+  color: #fff;
+  background-color: #15a0ef;
+  padding: 0 20px;
+  font-weight: bolder;
+  border-radius: 0.5rem;
+  -webkit-transition: 0.2s ease-in-out;
+  transition: 0.2s ease-in-out;
+  margin-top: 20px;
+}
+
+@media (max-width: 960px) {
+  .kv__titleBox-btn {
+    margin: 10px;
+  }
+}
+
+.kv__titleBox-btn:hover {
+  color: #15a0ef;
+  background-color: #e4f5ff;
+}
+
+.pdPic {
+  background-color: #000;
+}
+
+.pdPic__iconMobile {
+  display: none;
+}
+
+@media (max-width: 960px) {
+  .pdPic__iconMobile {
+    display: block;
+    text-align: center;
+    cursor: pointer;
+    margin: 50px 0;
+  }
+  .pdPic__iconMobile img {
+    width: 40px;
+  }
+}
+
+.pdPic__flex {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  margin-bottom: 60px;
+}
+
+.pdPic__flex-pic {
+  width: 15%;
+  margin: 0 20px;
+  opacity: 0.8;
+  -webkit-transition: 0.2s;
+  transition: 0.2s;
+  overflow: hidden;
+}
+
+@media (max-width: 960px) {
+  .pdPic__flex-pic {
+    width: 20%;
+    margin: 0 5px;
+  }
+}
+
+@media (max-width: 768px) {
+  .pdPic__flex-pic {
+    width: 45%;
+  }
+}
+
+.pdPic__flex-pic:hover {
+  opacity: 1;
+  -webkit-filter: drop-shadow(0px 0px 10px #a2ddff);
+          filter: drop-shadow(0px 0px 10px #a2ddff);
+}
+
+.pdPic__flex-pic:hover img {
+  -webkit-transition: 0.2s ease-in-out;
+  transition: 0.2s ease-in-out;
+}
+
+.pdPic__flex-icon {
+  width: 15%;
+  margin: 0 0px;
+  text-align: center;
+  -webkit-transition: 0.2s;
+  transition: 0.2s;
+  cursor: pointer;
+}
+
+@media (max-width: 960px) {
+  .pdPic__flex-icon {
+    display: none;
+  }
+}
+
+.pdPic__flex-icon img {
+  width: 30%;
+}
+
+.pdPic__flex-icon:hover {
+  -webkit-transform: scale(1.05);
+          transform: scale(1.05);
+  -webkit-filter: drop-shadow(0px 0px 10px #a2ddff);
+          filter: drop-shadow(0px 0px 10px #a2ddff);
+}
+
+</style>    
+
+
+    <section class="block kv">
+      <picture>
+        <source media="(max-width:960px)" srcset="https://storage-asset.msi.com/global/picture/image/feature/nb/vector-gp76/kv-small.jpg">
+        <img class="kv__pic" src="https://storage-asset.msi.com/global/picture/image/feature/nb/vector-gp76/kvbg.jpg" alt="Vector GP76 - 12U">
+      </picture>
+     
+      <img class="kv__pd" src="https://storage-asset.msi.com/global/picture/image/feature/nb/vector-gp76/pd-gp76.png" alt="Vector GP76 - 12U">
+      
+      <div class="kv__iconLeft">
+        <img src="https://storage-asset.msi.com/global/picture/image/feature/nb/GL/Pulse-GL66-12U/award-logo.png" alt="Meta">
+        <img src="https://storage-asset.msi.com/global/picture/image/feature/nb/vector-gp76/icon-meta.png" alt="Meta">
+      </div>
+
+      <div class="kv__icon">
+        <img src="https://storage-asset.msi.com/global/picture/image/feature/nb/vector-gp76/intel-core.jpg" alt="intel-core"><br>
+        Powered by 12<sup>th</sup> Gen.<br>
+        Intel<sup>®</sup> Core™ i9 processors
+      </div>
+
+      
+
+
+      <div class="kv__titleBox">
+          <img class="kv__titleBox-pic" src="https://storage-asset.msi.com/global/picture/image/feature/nb/vector-gp76/vector-gp76.png" alt="vector-gp76"/> <br>
+          <img class="kv__titleBox-pic" src="https://storage-asset.msi.com/global/picture/image/feature/nb/vector-gp76/born4performance.png" alt="BORN FOR PERFORMANCE"/>
+       
+
+          <div class="kv__iconMobile">
+            <img src="https://storage-asset.msi.com/global/picture/image/feature/nb/vector-gp76/intel-core.jpg" alt="intel-core">
+            <span>
+              Powered by 12<sup>th</sup> Gen.<br>
+              Intel<sup>®</sup> Core™ i9 processors
+            </span>
+          </div>
+
+          <div class="kv__iconLeftMobile">
+            <img src="https://storage-asset.msi.com/global/picture/image/feature/nb/GL/Pulse-GL66-12U/award-logo.png" alt="Meta">
+            <img src="https://storage-asset.msi.com/global/picture/image/feature/nb/vector-gp76/icon-meta.png" alt="Meta">
+          </div>
+
+        <p class="msiText">
+          The brand new MSI Vector GP series, as its name implies, is the basic element of dimensional space. Using the 
+          “Vector” as a starting point, forming 2nd and 3rd dimension a stereoscopic structure and extending to the 
+          unknown existence.
+        </p>
+        <a href="" class="allnb__buynow-btn kv__titleBox-btn" >SHOP NOW</a>
+      </div>
+
+      <div class="kv__picFlex">
+
+       
+      </div>
+    </section>
+
+    <section class="block pdPic">
+
+      <div class="popout pdPic__iconMobile">
+        <img class="popout__item msi__youtube-popout"
+        data-link="H_iYShyMlr8"   src="https://storage-asset.msi.com/global/picture/image/feature/nb/vector-gp76/play-icon.png" alt="play-icon">
+      </div>
+
+
+      <div class="pdPic__flex">
+        <a class="pdPic__flex-pic" href="http://www.msi.com/Laptop/Vector-GP76-12UX/Gallery"><img src="https://storage-asset.msi.com/global/picture/image/feature/nb/vector-gp76/p1.png" alt="Vector GP76 - 12U"></a>
+        <a class="pdPic__flex-pic" href="http://www.msi.com/Laptop/Vector-GP76-12UX/Gallery"><img src="https://storage-asset.msi.com/global/picture/image/feature/nb/vector-gp76/p2.png" alt="Vector GP76 - 12U"></a>
+
+        <div class="popout pdPic__flex-icon">
+          <img class="popout__item msi__youtube-popout"
+          data-link="H_iYShyMlr8"   src="https://storage-asset.msi.com/global/picture/image/feature/nb/vector-gp76/play-icon.png" alt="play-icon">
+        </div>
+
+        <a class="pdPic__flex-pic" href="http://www.msi.com/Laptop/Vector-GP76-12UX/Gallery"><img src="https://storage-asset.msi.com/global/picture/image/feature/nb/vector-gp76/p3.png" alt="Vector GP76 - 12U"></a>
+        <a class="pdPic__flex-pic" href="http://www.msi.com/Laptop/Vector-GP76-12UX/Gallery"><img src="https://storage-asset.msi.com/global/picture/image/feature/nb/vector-gp76/p4.png" alt="Vector GP76 - 12U"></a>
+      </div>
+
+    </section>
+
+
+      <script>
+        $("body").append(`<div class="MsiyoutubeBox"></div>`);
+        var smYTwidth = $(window).width() <= 991 ? "padding-bottom: 50.625%;width: 90%;" : "padding-bottom: 33.75%;width: 60%;";
+        var colorMain = "#000000cc";
+        var colorSub = "#999";
+        var pageColorStyleDisplay = "blackGray";
+      
+        $(window).resize(function () {
+          smYTwidth = $(window).width() <= 991 ? 'padding-bottom: "50.625%",width: "90%"' : 'padding-bottom: "33.75%",width: "60%"';
+          if ($(".Msiyoutube__video-wrapper") == undefined) {
+            return;
+          } else {
+            $(".Msiyoutube__video-wrapper").css({ smYTwidth });
+          }
+        });
+        $(".msi__youtube-popout").click(function () {
+          switch (pageColorStyleDisplay) {
+            case "blackRed":
+              colorMain = "#000000cc";
+              colorSub = "#EA2023";
+              break;
+            case "blackGray":
+              colorMain = "#000000cc";
+              colorSub = "#999";
+              break;
+            case "white":
+              colorMain = "#e6e6e6d3";
+              colorSub = "#999";
+              break;
+            default:
+              colorMain = "#000000cc";
+              colorSub = "#999";
+              break;
+          }
+          $(".MsiyoutubeBox").append(`
+          <section class="Msiyoutube" style='width: 100%;height: 100vh;position: fixed;top: 0;background: ${colorMain};z-index: 1000;opacity: 0;transition: 1s;transition-delay: 0.1s'>
+          <div class="Msiyoutube__video-wrapper" id="Msiyoutube__video-wrapper" style='position: absolute;top: 50%;left: 50%;transform: translate(-50%,-50%);${smYTwidth}'>
+            <div class="Msiyoutube__video-closebtn" style='position: absolute;z-index: 5;right: 0; top: -40px;cursor: pointer'>
+              <svg id="close" xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+                <path id="Path_8" data-name="Path 8" d="M28.333,7.35,25.983,5l-9.317,9.317L7.35,5,5,7.35l9.317,9.317L5,25.983l2.35,2.35,9.317-9.317,9.317,9.317,2.35-2.35-9.317-9.317Z" transform="translate(3.333 3.333)" fill="${colorSub}"/>
+                <path id="Path_9" data-name="Path 9" d="M0,0H40V40H0Z" fill="none"/>
+              </svg>
+            </div>
+            <div class="video-wrapper"> 
+              <iframe style='position: absolute;width: 100%;height: 100%' src="https://www.youtube.com/embed/${$(this).data(
+                "link"
+              )}" frameborder="0" allowfullscreen></iframe>
+            </div>
+            <div class="Msiyoutube__video-title" style='position: absolute;top: calc( 100% + 10px );color: ${colorSub};font-size:14px;line-height:1.4;font-family:sans-serif;'>
+              ${$(this).data("videoname")?$(this).data("videoname"):""}
+            </div>
+          </div>
+        </section>
+          `);
+          setTimeout(function () {
+            $(".Msiyoutube").css({ opacity: 1 });
+            $(".Msiyoutube__video-closebtn").click(function () {
+              $(".Msiyoutube").css({ opacity: 0 });
+              setTimeout(function () {
+                $(".MsiyoutubeBox").html("");
+              }, 1000);
+              $(".Msiyoutube__video-closebtn").off("click");
+            });
+          },0);
+       
+        });
+      
+      
+      </script>    <style>
+
+.intel {
+  position: relative;
+}
+
+.intel__pic {
+  width: 100%;
+}
+
+.intel__title {
+  position: absolute;
+  top: 0%;
+  left: 50%;
+  -webkit-transform: translate(-50%, 0);
+          transform: translate(-50%, 0);
+  width: 50%;
+}
+
+@media (max-width: 1680px) {
+  .intel__title {
+    top: -5%;
+  }
+}
+
+@media (max-width: 1366px) {
+  .intel__title {
+    top: 0%;
+    width: 60%;
+  }
+}
+
+@media (max-width: 960px) {
+  .intel__title {
+    position: relative;
+    width: 90%;
+  }
+}
+
+.intel__titleFlex {
+  margin-top: 50px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+@media (max-width: 1366px) {
+  .intel__titleFlex {
+    margin-top: 20px;
+  }
+}
+
+@media (max-width: 960px) {
+  .intel__titleFlex {
+    margin-top: 0;
+    text-align: center;
+    display: block;
+  }
+}
+
+.intel__titleFlex-icon {
+  width: 20%;
+  margin: 0 20px 0 0;
+}
+
+@media (max-width: 1366px) {
+  .intel__titleFlex-icon {
+    width: 15%;
+  }
+}
+
+@media (max-width: 960px) {
+  .intel__titleFlex-icon {
+    width: 30%;
+    margin: 0 auto;
+  }
+}
+
+.intel__titleFlex-txt {
+  width: 85%;
+  margin: 0 0 0 20px;
+}
+
+@media (max-width: 960px) {
+  .intel__titleFlex-txt {
+    margin: 0 auto;
+    width: 90%;
+  }
+}
+
+.intel__performanceFlex {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: self-start;
+      -ms-flex-align: self-start;
+          align-items: self-start;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+}
+
+@media (max-width: 768px) {
+  .intel__performanceFlex {
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+  }
+}
+
+.intel__performanceFlex li {
+  text-align: center;
+  margin: 0 20px;
+}
+
+@media (max-width: 768px) {
+  .intel__performanceFlex li {
+    width: 45%;
+    margin: 0;
+  }
+}
+
+
+</style>
+      <section class="block intel">
+
+        <div class="intel__title ">
+
+          <div class="intel__titleFlex">
+
+            <img class="intel__titleFlex-icon" src="https://storage-asset.msi.com/global/picture/image/feature/nb/vector-gp76/intel-core-bigger.jpg" alt="intel-core">
+
+            <div class="intel__titleFlex-txt">
+              <h3 class="msiText">REINVENTING MULTI-CORE ARCHITECTURE</h3>
+              <p class="msiText">
+                With the latest 12<sup>th</sup> Gen. Intel<sup>®</sup> Core™ i9 processor, the Vector GP76 provides unprecedented boost 
+                in your multitasking projects and performance demanding games.
+              </p>
+            </div>
+
+          </div>
+
+         
+            <ul class="intel__performanceFlex data data-l flex-left">
+              <li>
+                <div class="data-num"><em>Hybrid</em></div>
+                <div class="data-note">Core Architecture</div>
+              </li>
+              <li>
+                <div class="data-num"><em>14</em></div>
+                <div class="data-note">Cores</div>
+              </li>
+              <li>
+                <div class="data-num"> <em>45%</em></div>
+                <div class="data-note">Performance up</div>
+              </li>
+
+              <li>
+                <div class="data-num"><em>Intel 7</em></div>
+                <div class="data-note">Process</div>
+              </li>
+
+            </ul>
+          
+            <p class="note" >* Performance compared to previous gen i7-11800H. Specs varies by model.</p>
+
+
+        </div>
+
+        <picture>
+          <source media="(max-width:960px)" srcset="https://storage-asset.msi.com/global/picture/image/feature/nb/vector-gp76/cpu-small.jpg">
+          <img class="intel__pic" src="https://storage-asset.msi.com/global/picture/image/feature/nb/vector-gp76/cpu.jpg" alt="POTENT PERFORMANCE TO GAME ON">
+        </picture>
+
+      </section>    <style>
+        @-webkit-keyframes max-Q {
+          0% {
+            background-image: url("https://storage-asset.msi.com/global/picture/image/feature/nb/Crosshair15-B12U/gpu-Max-Q-1.jpg");
+          }
+          25% {
+            background-image: url("https://storage-asset.msi.com/global/picture/image/feature/nb/Crosshair15-B12U/gpu-Max-Q-2.jpg");
+          }
+          50% {
+            background-image: url("https://storage-asset.msi.com/global/picture/image/feature/nb/Crosshair15-B12U/gpu-Max-Q-3.jpg");
+          }
+          75% {
+            background-image: url("https://storage-asset.msi.com/global/picture/image/feature/nb/Crosshair15-B12U/gpu-Max-Q-2.jpg");
+          }
+          100% {
+            background-image: url("https://storage-asset.msi.com/global/picture/image/feature/nb/Crosshair15-B12U/gpu-Max-Q-1.jpg");
+          }
+        }
+
+        @keyframes max-Q {
+          0% {
+            background-image: url("https://storage-asset.msi.com/global/picture/image/feature/nb/Crosshair15-B12U/gpu-Max-Q-1.jpg");
+          }
+          25% {
+            background-image: url("https://storage-asset.msi.com/global/picture/image/feature/nb/Crosshair15-B12U/gpu-Max-Q-2.jpg");
+          }
+          50% {
+            background-image: url("https://storage-asset.msi.com/global/picture/image/feature/nb/Crosshair15-B12U/gpu-Max-Q-3.jpg");
+          }
+          75% {
+            background-image: url("https://storage-asset.msi.com/global/picture/image/feature/nb/Crosshair15-B12U/gpu-Max-Q-2.jpg");
+          }
+          100% {
+            background-image: url("https://storage-asset.msi.com/global/picture/image/feature/nb/Crosshair15-B12U/gpu-Max-Q-1.jpg");
+          }
+        }
+        
+        
+.gpu {
+  position: relative;
+}
+
+@media (max-width: 960px) {
+  .gpu__mobileBg {
+    background: url(https://storage-asset.msi.com/global/picture/image/feature/nb/vector-gp76/gpu-bg-xs.jpg) top center no-repeat;
+    background-size: 100%;
+  }
+}
+
+.gpu__pic {
+  width: 100%;
+}
+
+.gpu__pic-xs {
+  display: none;
+}
+
+@media (max-width: 960px) {
+  .gpu__pic {
+    display: none;
+  }
+  .gpu__pic-xs {
+    display: block;
+    margin: 40px auto;
+  }
+}
+
+.gpu__title {
+  position: absolute;
+  top: 11%;
+  left: 50%;
+  -webkit-transform: translate(-50%, 0);
+          transform: translate(-50%, 0);
+  width: 80%;
+}
+
+@media (max-width: 1536px) {
+  .gpu__title {
+    top: 9%;
+  }
+}
+
+@media (max-width: 1366px) {
+  .gpu__title {
+    top: 7%;
+    width: 90%;
+  }
+}
+
+@media (max-width: 960px) {
+  .gpu__title {
+    position: relative;
+    width: 90%;
+    margin: 0 auto;
+    top: 0;
+    left: 0;
+    -webkit-transform: translate(0, 0);
+            transform: translate(0, 0);
+  }
+}
+
+.gpu__icon {
+  width: 15%;
+}
+
+@media (max-width: 768px) {
+  .gpu__icon {
+    width: 40%;
+  }
+}
+
+.gpu__titleFlex {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: start;
+      -ms-flex-align: start;
+          align-items: flex-start;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  margin-top: 20px;
+}
+
+@media (max-width: 960px) {
+  .gpu__titleFlex {
+    display: block;
+  }
+}
+
+.gpu__titleFlex h3 {
+  width: 40%;
+  margin: 5px;
+}
+
+@media (max-width: 1366px) {
+  .gpu__titleFlex h3 {
+    width: 30%;
+  }
+}
+
+@media (max-width: 960px) {
+  .gpu__titleFlex h3 {
+    width: 100%;
+  }
+}
+
+.gpu__titleFlex p {
+  width: 60%;
+  margin: 5px;
+}
+
+@media (max-width: 1366px) {
+  .gpu__titleFlex p {
+    width: 70%;
+  }
+}
+
+@media (max-width: 960px) {
+  .gpu__titleFlex p {
+    width: 100%;
+  }
+}
+
+.gpu__slider {
+  position: absolute;
+  bottom: 5%;
+  left: 50%;
+  -webkit-transform: translate(-50%, 0);
+          transform: translate(-50%, 0);
+}
+
+@media (max-width: 960px) {
+  .gpu__slider {
+    position: relative;
+    bottom: 0;
+    left: 0;
+    -webkit-transform: translate(0, 0);
+            transform: translate(0, 0);
+  }
+}
+
+.gpu .main {
+  width: 80%;
+  display: block;
+  margin: 0 auto;
+}
+
+@media (max-width: 960px) {
+  .gpu .main {
+    width: 90%;
+  }
+}
+
+.gpu .box1 {
+  margin: 10px auto -150px;
+  padding: 2%;
+  position: relative;
+  width: 80%;
+}
+
+@media (max-width: 1536px) {
+  .gpu .box1 {
+    width: 90%;
+  }
+}
+
+@media (max-width: 960px) {
+  .gpu .box1 {
+    margin: 10px auto -35px;
+    padding: 0;
+    width: 80%;
+  }
+}
+
+.gpu .box1__title {
+  width: 75%;
+}
+
+@media (max-width: 960px) {
+  .gpu .box1__title {
+    width: 90%;
+  }
+}
+
+.gpu .box1__img {
+  width: 20%;
+}
+
+@media (max-width: 960px) {
+  .gpu .box1__img {
+    width: 90%;
+  }
+}
+
+.gpu .box1__absolute {
+  position: relative;
+}
+
+.gpu .box1__absoluteTxt {
+  position: absolute;
+  font-family: "DINCond-light", "cwTeXHei", "Microsoft JhengHei";
+  font-size: 1vw;
+}
+
+.gpu .box1__absoluteTxt sup {
+  font-size: 10px;
+}
+
+.gpu .box1__absoluteTxt:nth-of-type(1) {
+  top: 7%;
+  left: 1%;
+}
+
+.gpu .box1__absoluteTxt:nth-of-type(2) {
+  top: 42%;
+  left: 1%;
+}
+
+.gpu .box1__absoluteTxt:nth-of-type(3) {
+  top: 77%;
+  left: 1%;
+}
+
+.gpu .box1__absoluteTxt:nth-of-type(4) {
+  top: 7%;
+  left: 55.5%;
+}
+
+.gpu .box1__absoluteTxt:nth-of-type(5) {
+  top: 42%;
+  left: 55.5%;
+}
+
+.gpu .box1__absoluteTxt:nth-of-type(6) {
+  top: 77%;
+  left: 55.5%;
+}
+
+@media (max-width: 960px) {
+  .gpu .box1__absoluteTxt {
+    font-size: 2.4vw;
+  }
+  .gpu .box1__absoluteTxt:nth-of-type(1) {
+    top: 2.8%;
+    left: 2%;
+  }
+  .gpu .box1__absoluteTxt:nth-of-type(2) {
+    top: 16.7%;
+    left: 2%;
+  }
+  .gpu .box1__absoluteTxt:nth-of-type(3) {
+    top: 31%;
+    left: 2%;
+  }
+  .gpu .box1__absoluteTxt:nth-of-type(4) {
+    top: 65%;
+    left: 2%;
+  }
+  .gpu .box1__absoluteTxt:nth-of-type(5) {
+    top: 77.8%;
+    left: 2%;
+  }
+  .gpu .box1__absoluteTxt:nth-of-type(6) {
+    top: 92%;
+    left: 2%;
+  }
+}
+
+.gpu .box1Flex {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: reverse;
+      -ms-flex-direction: row-reverse;
+          flex-direction: row-reverse;
+}
+
+@media (max-width: 960px) {
+  .gpu .box1Flex {
+    -webkit-box-pack: justify;
+        -ms-flex-pack: justify;
+            justify-content: space-between;
+    display: block;
+  }
+}        
+        
+        
+        
+        .gpu__container {
+          position: relative;
+          z-index: 2;
+          width: 85%;
+          margin: 0 auto;
+          max-width: 1400px;
+        }
+
+        .gpu__feature {
+          display: -webkit-box;
+          display: -ms-flexbox;
+          display: flex;
+          text-align: center;
+          -webkit-box-pack: justify;
+              -ms-flex-pack: justify;
+                  justify-content: space-between;
+        }
+
+        .gpu__feature h3{
+          font-size: 35px;
+        }
+
+        .gpu__feature img {
+          width: 100%;
+        }
+
+        .gpu__feature figure {
+          -webkit-box-flex: 0;
+              -ms-flex: 0 0 30%;
+                  flex: 0 0 30%;
+          margin: 0;
+        }
+
+        .gpu__feature figcaption {
+          width: 90%;
+          margin: 0 auto;
+          max-width: auto;
+          padding: 15px 0;
+        }
+
+        .gpu__feature h3 {
+          margin: 0;
+          padding-bottom: 5px;
+          text-transform: uppercase;
+          line-height: 1.2;
+        }
+
+        .gpu__feature p {
+          font-size: 16px;
+          line-height: 1.4;
+        }
+
+        .gpu__feature .imgslider {
+          -webkit-animation: 5s max-Q infinite ease;
+                  animation: 5s max-Q infinite ease;
+          background-size: cover;
+        }
+
+
+        @media (max-width: 992px){
+
+            .gpu__container {
+                width: 100%;
+            }
+            .gpu__feature {
+            display: block;
+            text-align: center;
+            -webkit-box-pack: justify;
+                -ms-flex-pack: justify;
+                    justify-content: space-between;
+          }
+          .gpu__feature img {
+            width: 100%;
+          }
+          .gpu__feature figure {
+            flex: unset;
+            margin: 35px auto;
+            width: 80%;
+          }
+
+
+        }
+      </style>
+
+      <section class="gpu block" >
+
+        <div class="gpu__mobileBg">
+
+          <div class="gpu__title">
+            <img class="gpu__icon" src="https://storage-asset.msi.com/global/picture/image/feature/nb/vector-gp76/rtx-icon.png" alt="">
+            <div class="gpu__titleFlex">
+              <h3 class="msiText">
+                GEFORCE RTX 30 SERIES LAPTOPS<br>
+                THE ULTIMATE PLAY
+              </h3>
+
+              <img class="gpu__pic-xs" src="https://storage-asset.msi.com/global/picture/image/feature/nb/vector-gp76/gpu-pd.png" alt="">
+
+              <p class="msiText">
+                NVIDIA<sup>®</sup> GeForce RTX™ 30 Series Laptop GPUs power the world’s fastest 
+                laptops for gamers and creators. They’re built with Ampere—NVIDIA’s 2nd gen RTX 
+                architecture—to give you the most realistic ray-traced graphics and cutting-edge 
+                AI features like NVIDIA DLSS. Plus, Max-Q Technologies unleash the power of AI to 
+                make thin, high-performance laptops that are faster and better than ever. 
+  
+              </p>
+            </div>
+          </div>
+  
+          <picture>
+
+            
+            <img class="gpu__pic" src="https://storage-asset.msi.com/global/picture/image/feature/nb/vector-gp76/gpu.jpg" alt="">
+          </picture>
+
+        </div>
+        
+
+
+
+
+
+
+        <div class="gpu__container gpu__feature">
+          <figure>
+            <img src="https://storage-asset.msi.com/global/picture/image/feature/nb/Crosshair15-B12U/gpu-DLSS.jpg" alt="BOOST PERFORMANCE WITH AI">
+            <figcaption>
+              <h3 class="msiText ">
+                BOOST PERFORMANCE <span>WITH AI</span>
+              </h3>
+              <p>
+                <b>NVIDIA DLSS</b> gives games a speed boost with uncompromised image quality. Crank up the settings and resolution for an even better visual experience.
+              </p>
+            </figcaption>
+          </figure>
+          <figure>
+            <img src="https://storage-asset.msi.com/global/picture/image/feature/nb/Crosshair15-B12U/gpu-Ray-Tracing.jpg" alt="MORE IMMERSIVE EXPERIENCES">
+            <figcaption>
+              <h3 class="msiText ">
+                MORE IMMERSIVE <span>EXPERIENCES</span>
+              </h3>
+              <p class="msiText">
+                <b>Ray Tracing</b> is the holy grail of graphics. It simulates how light behaves in the real-world to produce the most realistic 
+                and immersive graphics for gamers and creators - and runs fast thanks to 2nd gen RT Cores.
+              </p>
+            </figcaption>
+          </figure>
+          <figure>
+            <div class="imgslider">
+              <img src="https://storage-asset.msi.com/global/picture/image/feature/nb/Crosshair15-B12U/gpu-Max-Q.png" alt="OPTIMIZED POWER and PERFORMANCE">
+            </div>
+            <figcaption>
+              <h3 class="msiText ">
+                OPTIMIZED POWER <span>and PERFORMANCE</span>
+              </h3>
+              <p class="msiText">
+                <b>NVIDIA Max-Q</b> is a suite of technologies powered by AI that optimize laptops to deliver high performance in thin form factors.
+              </p>
+            </figcaption>
+          </figure>
+        </div>
+
+       
+          <div class="box1">
+            <h3 class="msiText">3DMARK TIME SPY BENCHMARK</h3>
+            <div class="box1__absolute" >
+              
+
+              <picture>
+                <source media="(max-width:960px)" srcset="https://storage-asset.msi.com/global/picture/image/feature/nb/vector-gp76/bar-small.png">
+                <img src="https://storage-asset.msi.com/global/picture/image/feature/nb/vector-gp76/bar.png" alt="bar">
+              </picture>
+            
+              <p class="msiText box1__absoluteTxt" >NVIDIA<sup>®</sup> GeForce RTX™ 3080 Ti Laptop GPU</p>
+              <p class="msiText box1__absoluteTxt" >NVIDIA<sup>®</sup> GeForce RTX™ 3080 Laptop GPU</p>
+              <p class="msiText box1__absoluteTxt" >NVIDIA<sup>®</sup> GeForce RTX 2080 SUPER™ Laptop GPU</p>
+
+              <p class="msiText box1__absoluteTxt" >NVIDIA<sup>®</sup> GeForce RTX™ 3070 Ti Laptop GPU</p>
+              <p class="msiText box1__absoluteTxt" >NVIDIA<sup>®</sup> GeForce RTX™ 3060 Laptop GPU</p>
+              <p class="msiText box1__absoluteTxt" >NVIDIA<sup>®</sup> GeForce RTX 2070 SUPER™ Laptop GPU</p>
+
+              
+
+            </div>
+            <p class="note box1__absoluteNote" >*Performance may vary by system configuration and game settings.</p>
+            
+
+          </div>
+      
+          <img src="https://storage-asset.msi.com/global/picture/image/feature/nb/vector-gp76/blue-gradiant.jpg" alt="">
+
+
+        
+      </section>    <style>
+    .power {
+      width: 100%;
+      overflow: hidden;
+      position: relative;
+      z-index: 1;
+      background: #000;
+
+    }
+
+    .power  .power__h2 {
+      color: #fff;
+      position: absolute;
+      /* margin-top: 50px; */
+      top: 8%;
+      left: 50%;
+      transform: translateX(-50%);
+      z-index: 3;
+      width: 40%;
+      font-size: 2em;
+      text-align: center;
+    }
+
+    .power .power__picture {
+      position: relative;
+      z-index: 2;
+      width: 100%;
+    }
+
+    .power .power__picture img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+    }
+
+    .gpuext {
+      position: absolute;
+      color: #18a165;
+      top: 53%;
+      left: 23%;
+      font-size: 1.2vw;
+      z-index: 10;
+      font-family: 'din_pro_bold';
+    }
+
+    .block .gpuTotal {
+      position: absolute;
+      color: #ffffff;
+      top: 32%;
+      left: 45%;
+      font-size: 2vw;
+      z-index: 10;
+      font-family: 'din_pro_bold';
+      text-align: center;
+      line-height: 1.6 !important;
+      text-shadow: 0 0 10px #fff;
+    }
+
+    .gpuTotal__num {
+      font-size: 4.3vw;
+    }
+
+    .power__box {
+      /* line-height: 1; */
+      width: 100%;
+      margin: 0 auto;
+      text-align: center;
+      background: #000;
+      color: rgb(150, 150, 150);
+      padding-bottom: 10px;
+    }
+
+    .power__small {
+      text-align: center;
+      display: inline-block;
+      width: 70%;
+      margin: 0 auto;
+      font-size: 0.7em;
+    }
+
+    @media (max-width: 1400px) {
+      .power__h2 {
+        width: 35%;
+      }
+
+    }
+
+    @media (max-width: 960px) {
+      .power  .power__h2 {
+        color: #fff;
+        position: absolute;
+        top: 8%;
+        left: 0%;
+        transform: translateX(0);
+        z-index: 3;
+        width: 100%;
+        font-size: 1.5em;
+        text-align: center;
+        padding: 0 5%;
+      }
+
+      .power .gpuTotal {
+        position: absolute;
+        color: #ffffff;
+        top: 40%;
+        left: 43%;
+        font-size: 5vw;
+        z-index: 10;
+        font-family: 'din_pro_bold';
+        text-align: center;
+        transform: scale(1);
+      }
+
+      .power .gpuext {
+        position: absolute;
+        color: #18a165;
+        top: 93%;
+        left: -23%;
+        font-size: 1em;
+        z-index: 10;
+        font-family: 'din_pro_bold';
+        text-align: center;
+        width: 100%;
+      }
+
+    }
+    @media (max-width: 400px) {
+      .power .gpuext {
+        position: absolute;
+        color: #18a165;
+        /* top: 87%; */
+        left: -20%;
+        font-size: 1em;
+        z-index: 10;
+        font-family: 'din_pro_bold';
+        text-align: center;
+        width: 100%;
+      }
+
+      .power__small{
+        width: 90%;
+      }
+    }
+  </style>
+  <section class="power block">
+
+    <h2 class="power__h2">MSI OVERBOOST TECHNOLOGY<br>UNLEASH THE POWER</h2>
+
+    <p class="gpuext">With Dynamic Boost 2.0</p>
+    <div class="gpuTotal">TOTAL <br> <span class="gpuTotal__num">210W</div>
+    </p>
+    <picture class="power__picture">
+      <source srcset="https://storage-asset.msi.com/global/picture/image/feature/nb/raider-ge66-12u/images/power-mo.jpg" media="(max-width:960px)">
+      <img class="imgCtrl" src="https://storage-asset.msi.com/global/picture/image/feature/nb/raider-ge66-12u/images/power.jpg" alt="">
+    </picture>
+   
+  </section>
+
+ <div class="power__box">
+    <p class="power__small">
+        *MSI OverBoost technology: Combined full load of CPU-GPU, maximize 165W graphics power by GeForce RTX™ 3080 Laptop GPU, with 45W by 12th Gen Intel® Core™ i9 / i7 Processors. Under Extreme Performance mode by MSI Center with AC power.
+    </p>
+    <p class="power__small">*May vary by scenario.</p>
+  </div>    <style>
+
+.hz {
+  position: relative;
+  padding-top: 60px;
+}
+
+.hz__pic {
+  width: 100%;
+}
+
+.hz__title {
+  position: absolute;
+  top: 4%;
+  left: 50%;
+  -webkit-transform: translate(-50%, 0);
+          transform: translate(-50%, 0);
+  text-align: center;
+}
+
+.hz__title .note {
+  padding-top: 0;
+  padding: 0 0;
+}
+
+@media (max-width: 1366px) {
+  .hz__title {
+    top: 0;
+  }
+}
+
+@media (max-width: 960px) {
+  .hz__title {
+    width: 90%;
+    position: relative;
+    margin-bottom: 20px;
+  }
+}
+
+.hz__performanceFlex {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: self-start;
+      -ms-flex-align: self-start;
+          align-items: self-start;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+}
+
+@media (max-width: 768px) {
+  .hz__performanceFlex {
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+  }
+}
+
+.hz__performanceFlex li {
+  text-align: center;
+  margin: 0 20px;
+}
+
+@media (max-width: 768px) {
+  .hz__performanceFlex li {
+    width: 45%;
+    margin: 0;
+  }
+}
+
+@media (max-width: 480px) {
+  .hz__performanceFlex li {
+    width: 90%;
+    margin: 0 auto;
+  }
+}
+
+.hz__title2 {
+  position: absolute;
+  bottom: 0%;
+  left: 50%;
+  -webkit-transform: translate(-50%, 0);
+          transform: translate(-50%, 0);
+  text-align: center;
+}
+
+@media (max-width: 960px) {
+  .hz__title2 {
+    width: 90%;
+    position: relative;
+  }
+}
+
+.hz__title2-pic {
+  margin-bottom: 20px;
+  width: 15%;
+}
+
+@media (max-width: 960px) {
+  .hz__title2-pic {
+    width: 40%;
+  }
+}
+
+</style>
+
+      <section class="block hz">
+      
+
+
+        <picture>
+          <source media="(max-width:960px)" srcset="https://storage-asset.msi.com/global/picture/image/feature/nb/vector-gp76/300hz-small.jpg">
+          <img class="hz__pic" src="https://storage-asset.msi.com/global/picture/image/feature/nb/vector-gp76/300hz.jpg" alt="">
+        </picture>
+
+        <div class="hz__title">
+          <h3 class="msiText">LIGHTNING FAST AND SMOOTH DISPLAY</h3>
+          <p class="msiText">
+            Our gaming laptops tailor-made and highly optimized for gamers. The display comes with a high refresh rate and smooth visuals, 
+            allowing you to experience the next level of gaming.
+
+          </p>
+          <p class="note">* Optional. Actual specification may vary by configurations.</p>
+          <ul class="hz__performanceFlex data data-l flex-left">
+            <li>
+              <div class="data-num"><em>17.3”</em></div>
+              <div class="data-note">Immersive display</div>
+            </li>
+
+            <li>
+              <div class="data-num"> <span>Up to</span> <em>QHD</em> resolution</div>
+              <div class="data-note">Variety of options</div>
+            </li>
+
+            <li>
+              <div class="data-num"> <span>Up to</span><em>360 </em> Hz </div>
+              <div class="data-note">Refresh rate</div>
+            </li>
+
+          </ul>
+        </div>
+        <div class="hz__title2">
+          <img class="hz__title2-pic" src="https://storage-asset.msi.com/global/picture/image/feature/nb/vector-gp76/matrix.png" alt="">
+          <p class="msiText">
+            Expand your vision across multiple displays with HDMI, mini DisplayPort and USB Type-C, enjoy high resolution output for some extra productivity.
+          </p>
+        </div>
+
+      </section>    <!--cooler-->
+      <style>
+        .GP76-cooler {
+            background: #000;
+            position: relative;
+            overflow: hidden;
+        }
+        
+        .GP76-cooler-img {
+ 
+            position: relative; 
+        }
+        
+        .GP76-cooler-img canvas {
+            width: 70%
+        }
+        
+        .GP76-cooler-content {
+          position: absolute;
+          z-index: 2;
+          /* margin-top: 290px; */
+          max-width: 700px;
+          top: 50%;
+          left: 60%;
+          transform: translate(0, -50%);
+        }
+        
+        .GP76-cooler-content .cooler-logo {
+            width: 200px;
+            margin: 0px auto
+        }
+
+        .cooler-data-small{
+          display: none !important;
+        }
+        
+
+        
+        
+        @media (max-width: 960px) {
+            .GP76-cooler-content {
+                text-align: center;
+                position: relative;
+                z-index: 2;
+                max-width: 700px;
+                top: 0%;
+                left: 0%;
+                transform: translate(0, 0%);
+                margin: 0 auto;
+            }
+            .GP76-cooler-img canvas {
+                width: 114%
+            }
+            .cooler-data-small{
+              display: flex !important;
+            }
+            .cooler-data-big{
+                display: none !important;
+            }
+            
+        }
+        
+        @media (max-width: 768px) {
+    
+            .GP76-cooler-content .cooler-logo {
+                width: 150px;
+            }
+        }
+        
+ 
+      </style>
+
+
+      <div class="GP76-cooler GP76 block">
+        
+       
+              
+                    <div class="GP76-cooler-img aos-init aos-animate" >
+                        <script src="https://storage-asset.msi.com/global/picture/image/feature/nb/vector-gp76/GP76-11th-cooler.js"></script>
+                        <script>
+                            var canvas, stage, exportRoot;
+
+                            function init() {
+                                canvas = document.getElementById("canvas");
+                                images = images || {};
+                                var loader = new createjs.LoadQueue(false);
+                                loader.addEventListener("fileload", handleFileLoad);
+                                loader.addEventListener("complete", handleComplete);
+                                loader.loadManifest(lib.properties.manifest);
+                            }
+
+                            function handleFileLoad(evt) {
+                                if (evt.item.type == "image") {
+                                    images[evt.item.id] = evt.result;
+                                }
+                            }
+
+                            function handleComplete(evt) {
+                                exportRoot = new lib.S15Mcooler();
+
+                                stage = new createjs.Stage(canvas);
+                                stage.addChild(exportRoot);
+                                stage.update();
+
+                                createjs.Ticker.setFPS(lib.properties.fps);
+                                createjs.Ticker.addEventListener("tick", stage);
+                            }
+                            setTimeout(() => init(), 1000)
+                        </script>
+
+                        <canvas id="canvas" width="1600" height="967"></canvas>
+                    </div>
+               
+                    <div class="GP76-cooler-content text-left">
+                      <img class="cooler-logo" src="https://storage-asset.msi.com/global/picture/image/feature/nb/GP76-RTX30/icon-boost5.png" alt="Cooler Boost 5 logo">
+                      <h3 class="msiText">Next Gen Cooling for Next Gen Gaming</h3>
+                      <ul class="data data-l flex-left cooler-data-small">
+                        <li class="data-num li-left">
+                            <em>2</em><span>Fans</span>
+                        </li>
+
+                        <li class="data-num li-left">
+                            <em> 6</em><span>Pipes</span>
+                        </li>
+                    </ul>
+                      <p class="msiText color-blue" data-aos-offset="-150">Dedicated thermal solutions for both the CPU and GPU with 6 heat pipes, work harmoniously by minimizing the heat and maximizing the airflow for smooth gaming performance in a compact chassis.</p>
+                      <ul class="data data-l flex-left cooler-data-big">
+                          <li class="data-num li-left">
+                              <em>2</em><span>Fans</span>
+                          </li>
+
+                          <li class="data-num li-left">
+                              <em> 6</em><span>Pipes</span>
+                          </li>
+                      </ul>
+                  </div>
+       
+      </div> 
+      <!--cooler-->    <style>
+.highSpeed {
+  position: relative;
+  margin-bottom: 20px;
+}
+
+.highSpeed__pic {
+  width: 100%;
+}
+
+.highSpeed__title {
+  position: absolute;
+  top: 50%;
+  left: 60%;
+  -webkit-transform: translate(0%, -50%);
+          transform: translate(0%, -50%);
+  width: 35%;
+}
+
+@media (max-width: 960px) {
+  .highSpeed__title {
+    width: 90%;
+    margin: 0 auto;
+    position: relative;
+    -webkit-transform: translate(0%, 0%);
+            transform: translate(0%, 0%);
+    top: 0;
+    left: 0;
+    text-align: center;
+  }
+}
+
+.highSpeed__icon {
+  width: 150px;
+  margin-right: 20px;
+}
+
+@media (max-width: 960px) {
+  .highSpeed__icon {
+    width: 30%;
+  }
+}
+
+
+</style>
+
+      <section class="block highSpeed">
+
+        <picture>
+          <source media="(max-width:960px)" srcset="https://storage-asset.msi.com/global/picture/image/feature/nb/vector-gp76/High-Speed-Transfer-small.jpg">
+          <img class="highSpeed__pic" src="https://storage-asset.msi.com/global/picture/image/feature/nb/vector-gp76/High-Speed-Transfer.jpg" alt="High-Speed-Transfer">
+        </picture>
+
+
+        <div class="highSpeed__title">
+          <h3 class="msiText">High Speed Transfer</h3>
+          <p class="msiText">
+            Vector series comes with the ultimate combination of data transfer interface and the widest bandwidth for an unrivaled experience.
+          </p>
+          <p class="note">* Optional. Actual specification may vary by configurations.</p>
+          <img class="highSpeed__icon" src="https://storage-asset.msi.com/global/picture/image/feature/nb/vector-gp76/DDR5.png" alt="DDR5">
+          <img class="highSpeed__icon" src="https://storage-asset.msi.com/global/picture/image/feature/nb/vector-gp76/PCI.png" alt="PCI">
+        </div>
+        
+      </section>    <style>
+ .GP76-rgb {
+  padding: 0px;
+  background: #000;
+  overflow: hidden;
+}
+
+.GP76-rgb-content {
+  position: absolute;
+  z-index: 4;
+  top: 0px;
+}
+
+.GP76-rgb-menu {
+  position: absolute;
+  z-index: 4;
+  top: -260px;
+  left: 20%;
+  right: 20%;
+}
+
+.GP76-rgb-menu .btu_icon {
+  display: inline-block;
+  font-family: 'DINCond-Bold';
+  vertical-align: top;
+  text-decoration: none;
+  -webkit-transition: All 1s ease;
+  transition: All 1s ease;
+  color: #00d8ff;
+}
+
+.GP76-rgb-menu .btu_icon:hover, .GP76-rgb-menu .btu_icon:active {
+  text-decoration: none;
+  color: #00d8ff;
+}
+
+.GP76-rgb-menu .btu_icon.active {
+  color: #5ffff9;
+  text-decoration: none;
+}
+
+.GP76-rgb-menu .btu_icon.active .icon {
+  background: url("https://storage-asset.msi.com/global/picture/image/feature/nb/GP76-11th-RTX30/rgb-icon-bg.png") left -25px top -25px no-repeat, url("https://storage-asset.msi.com/global/picture/image/feature/nb/GP76-11th-RTX30/rgb-icon-bg.png") right -25px top -25px no-repeat, url("https://storage-asset.msi.com/global/picture/image/feature/nb/GP76-11th-RTX30/rgb-icon-bg.png") left -25px bottom -25px no-repeat, url("https://storage-asset.msi.com/global/picture/image/feature/nb/GP76-11th-RTX30/rgb-icon-bg.png") right -25px bottom -25px no-repeat, url("https://storage-asset.msi.com/global/picture/image/feature/nb/GP76-RTX30/GP76-btn-bg.png"), rgba(0, 24, 30, 0.15);
+  display: block;
+}
+
+.GP76-rgb-menu .btu_icon .icon {
+  width: 50px;
+  height: 50px;
+  background: url("https://storage-asset.msi.com/global/picture/image/feature/nb/GP76-11th-RTX30/rgb-icon-bg-nor.png") left -25px top -25px no-repeat, url("https://storage-asset.msi.com/global/picture/image/feature/nb/GP76-11th-RTX30/rgb-icon-bg-nor.png") right -25px top -25px no-repeat, url("https://storage-asset.msi.com/global/picture/image/feature/nb/GP76-11th-RTX30/rgb-icon-bg-nor.png") left -25px bottom -25px no-repeat, url("https://storage-asset.msi.com/global/picture/image/feature/nb/GP76-11th-RTX30/rgb-icon-bg-nor.png") right -25px bottom -25px no-repeat, url("https://storage-asset.msi.com/global/picture/image/feature/nb/GP76-RTX30/GP76-btn-bg.png"), rgba(0, 24, 30, 0.15);
+  display: block;
+  margin: 5px 15px 10px;
+  -webkit-transition: All .5s ease;
+  transition: All .5s ease;
+}
+
+.GP76-rgb-menu .btu_icon .icon img {
+  opacity: 0.3;
+  width: 100%;
+  display: inline-block;
+}
+
+.GP76-rgb-menu .btu_icon.active .icon img {
+  opacity: 1;
+}
+
+.GE_GoldSplash, .GE_freeway, .GE_Chakra, .GE_DiscoMode, .GE_FPS, .GE_MMO, .GE_MOBA, .GE_Roulette {
+  opacity: 0 !important;
+}
+
+.GE_GoldSplash.active, .GE_freeway.active, .GE_Chakra.active, .GE_DiscoMode.active, .GE_FPS.active, .GE_MMO.active, .GE_MOBA.active, .GE_Roulette.active {
+  opacity: 1 !important;
+}
+
+#GEKeyboard {
+  width: 100%;
+  max-width: 1920px;
+  position: relative;
+  margin: 0 auto;
+}
+
+#GEKeyboard div {
+  position: absolute;
+  width: 100%;
+}
+
+#GEKeyboard .GP76-rgb-laptop {
+  position: relative;
+  z-index: 2;
+  width: 100%;
+}
+
+#GEKeyboard .GP76-rgb-laptop img {
+  vertical-align: top;
+}
+
+#GEKeyboard div img {
+  width: 100%;
+  vertical-align: top;
+}
+
+/*--GP76 icon light animate -- */
+.GP76-rgb-menu .btu_icon.active .icon {
+  -webkit-animation-name: GP76-icon-light;
+          animation-name: GP76-icon-light;
+  -webkit-animation-duration: 1s;
+          animation-duration: 1s;
+  -webkit-animation-iteration-count: infinite;
+          animation-iteration-count: infinite;
+  -webkit-animation-direction: alternate;
+          animation-direction: alternate;
+  -webkit-animation-delay: 0;
+          animation-delay: 0;
+  -webkit-animation-play-state: running;
+          animation-play-state: running;
+  -webkit-animation-fill-mode: none;
+          animation-fill-mode: none;
+}
+
+@-webkit-keyframes GP76-icon-light {
+  from {
+    bottom: 0;
+    -webkit-box-shadow: 0px 0px 20px rgba(0, 203, 255, 0.4), 0px 0px 20px rgba(0, 203, 255, 0.4) inset;
+            box-shadow: 0px 0px 20px rgba(0, 203, 255, 0.4), 0px 0px 20px rgba(0, 203, 255, 0.4) inset;
+  }
+  to {
+    bottom: 60px;
+    -webkit-box-shadow: 0px 0px 30px rgba(0, 203, 255, 0.6), 0px 0px 30px rgba(0, 203, 255, 0.6) inset;
+            box-shadow: 0px 0px 30px rgba(0, 203, 255, 0.6), 0px 0px 30px rgba(0, 203, 255, 0.6) inset;
+  }
+}
+
+@keyframes GP76-icon-light {
+  from {
+    bottom: 0;
+    -webkit-box-shadow: 0px 0px 20px rgba(0, 203, 255, 0.4), 0px 0px 20px rgba(0, 203, 255, 0.4) inset;
+            box-shadow: 0px 0px 20px rgba(0, 203, 255, 0.4), 0px 0px 20px rgba(0, 203, 255, 0.4) inset;
+  }
+  to {
+    bottom: 60px;
+    -webkit-box-shadow: 0px 0px 30px rgba(0, 203, 255, 0.6), 0px 0px 30px rgba(0, 203, 255, 0.6) inset;
+            box-shadow: 0px 0px 30px rgba(0, 203, 255, 0.6), 0px 0px 30px rgba(0, 203, 255, 0.6) inset;
+  }
+}
+
+@media (max-width: 1699px) {
+  .GP76-rgb-content {
+    top: 50px;
+  }
+  .GP76-rgb-menu {
+    top: -200px;
+    left: 20%;
+    right: 20%;
+  }
+}
+
+@media (max-width: 1399px) {
+  .GP76-rgb-content {
+    top: -20px;
+  }
+  .GP76-rgb-menu {
+    top: -150px;
+    left: 10%;
+    right: 10%;
+  }
+}
+
+@media (max-width: 991px) {
+  .GP76-rgb-content {
+    top: 0px;
+  }
+  .GP76-rgb-menu {
+    position: relative;
+    top: -100px;
+    left: 0%;
+    right: 0%;
+  }
+}
+
+@media (max-width: 768px) {
+  .GP76-rgb {
+    padding: 0px;
+    background: #000;
+    background-size: contain;
+  }
+  #GEKeyboard {
+    width: 140%;
+    position: relative;
+    margin-left: -20%;
+    bottom: 0;
+  }
+    #GEKeyboard div {
+    
+    bottom: 0;
+  }
+  .GP76-rgb-content {
+    position: relative;
+    margin-bottom: -100px;
+  }
+  .GP76-rgb-menu {
+    position: relative;
+    top: -50px;
+    left: 0%;
+    right: 0%;
+  }
+  .GP76-rgb-menu .btu_icon {
+    font-size: 15px;
+    width: 20%;
+    text-align: center;
+    margin-bottom: 15px;
+  }
+  .GP76-rgb-menu .btu_icon .icon {
+    width: 46px;
+    height: 46px;
+    margin: 5px auto;
+  }
+}
+
+    </style>
+ 
+    <section class="GP76-rgb block">
+      <div class="container-fluid">
+          <div class="row">
+              <div class="col-xs-10 col-xs-offset-1 col-sm-8 col-sm-offset-2 col-md-6 col-md-offset-3 col-lg-4 col-lg-offset-4 text-center">
+                  <div class="GP76-rgb-content">
+                      <img class="GP76-rgb-logo" alt="" src="https://storage-asset.msi.com/global/picture/image/feature/nb/GP76-RTX30/rgb-logo.png">
+                      <h3 class="msiText mb-1">Per-key RGB Gaming Keyboard By Steelseries</h3>
+                      <p class="msiText">Customize each key to your liking and receive real-time in-game status through keyboard lighting, or even watch the lights dance to your favorite tune!</p>
+                  </div>
+              </div>
+              <div class="col-md-12">
+                  <div id="GEKeyboard" class="wow fadeIn">
+                      <div class="GE_FPS fade in active"><img alt="GE_FPS" src="https://storage-asset.msi.com/global/picture/image/feature/nb/GP76-RTX30/rgb-animate-fps.jpg"></div>
+                      <div class="GE_MMO fade"><img alt="GE_FPS" src="https://storage-asset.msi.com/global/picture/image/feature/nb/GP76-RTX30/rgb-animate-mmo.jpg"></div>
+                      <div class="GE_MOBA fade"><img alt="GE_FPS" src="https://storage-asset.msi.com/global/picture/image/feature/nb/GP76-RTX30/rgb-animate-moba.jpg"></div>
+                      <div class="GE_freeway fade"><img alt="GE_FPS" src="https://storage-asset.msi.com/global/picture/image/feature/nb/GP76-RTX30/rgb-animate-freeway.gif"></div>
+                      <div class="GE_Chakra fade"><img alt="GE_FPS" src="https://storage-asset.msi.com/global/picture/image/feature/nb/GP76-RTX30/rgb-animate-Chakra.gif"></div>
+                      <div class="GE_DiscoMode fade"><img alt="GE_FPS" src="https://storage-asset.msi.com/global/picture/image/feature/nb/GP76-RTX30/rgb-animate-disco.gif"></div>
+                      <div class="GE_Roulette fade"><img alt="GE_FPS" src="https://storage-asset.msi.com/global/picture/image/feature/nb/GP76-RTX30/rgb-animate-roulette.gif"></div>
+                      <div class="GE_GoldSplash fade"><img alt="GE_FPS" src="https://storage-asset.msi.com/global/picture/image/feature/nb/GP76-RTX30/rgb-animate-gold.gif"></div>
+                      <img class="GP76-rgb-laptop" alt="GP" src="https://storage-asset.msi.com/global/picture/image/feature/nb/vector-gp76/rgb-nb.png">
+                      <div class="clearfix"></div>
+                  </div>
+              </div>
+              <div class="col-md-12 text-center" style="background:#000">
+                  <div class="GP76-rgb-menu">
+                      <a href="javascript:void(0);" id="GE_FPS" class="btu_icon btu_icon_k icon_k5 active">
+                          <span class="icon"><img src="https://storage-asset.msi.com/global/picture/image/feature/nb/GP76-RTX30/rgb-icon-fps.png"></span>
+                          <span>FPS</span>
+                      </a>
+                      <a href="javascript:void(0);" id="GE_MMO" class="btu_icon btu_icon_k icon_k6">
+                          <span class="icon"><img src="https://storage-asset.msi.com/global/picture/image/feature/nb/GP76-RTX30/rgb-icon-fps.png"></span>
+                          <span>MMO</span>
+                      </a>
+                      <a href="javascript:void(0);" id="GE_MOBA" class="btu_icon btu_icon_k icon_k7">
+                          <span class="icon"><img src="https://storage-asset.msi.com/global/picture/image/feature/nb/GP76-RTX30/rgb-icon-fps.png"></span>
+                          <span>MOBA</span>
+                      </a>
+                      <a href="javascript:void(0);" id="GE_freeway" class="btu_icon btu_icon_k icon_k2">
+                          <span class="icon"><img src="https://storage-asset.msi.com/global/picture/image/feature/nb/GP76-RTX30/rgb-icon-freeway.png"></span>
+                          <span>Free Way</span>
+                      </a>
+                      <a href="javascript:void(0);" id="GE_Chakra" class="btu_icon btu_icon_k icon_k3">
+                          <span class="icon"><img src="https://storage-asset.msi.com/global/picture/image/feature/nb/GP76-RTX30/rgb-icon-chakra.png"></span>
+                          <span>Chakra</span>
+                      </a>
+                      <a href="javascript:void(0);" id="GE_DiscoMode" class="btu_icon btu_icon_k icon_k4">
+                          <span class="icon"><img src="https://storage-asset.msi.com/global/picture/image/feature/nb/GP76-RTX30/rgb-icon-disco.png"></span>
+                          <span>Disco Mode</span>
+                      </a>
+                      <a href="javascript:void(0);" id="GE_Roulette" class="btu_icon btu_icon_k icon_k8">
+                          <span class="icon"><img src="https://storage-asset.msi.com/global/picture/image/feature/nb/GP76-RTX30/rgb-icon-roulette.png"></span>
+                          <span>Roulette</span>
+                      </a>
+  
+                  </div>
+              </div>
+          </div>
+      </div>
+  </section>
+  
+     <script>
+      $(document).ready(function() {
+          //Perkey RGB 
+          var btu_k1 = $('.icon_k1');
+          var btu_k2 = $('.icon_k2');
+          var btu_k3 = $('.icon_k3');
+          var btu_k4 = $('.icon_k4');
+          var btu_k5 = $('.icon_k5');
+          var btu_k6 = $('.icon_k6');
+          var btu_k7 = $('.icon_k7');
+          var btu_k8 = $('.icon_k8');
+          var isClick2 = 0;
+          var t3, t4;
+          KBSlide();
+  
+          btu_k1.click(function() {
+              isClick2 = 1;
+              StopKBSlide();
+              KB_1();
+              $('.btu_icon_k').removeClass('active');
+              $('.icon_k1').addClass('active');
+          });
+          btu_k2.click(function() {
+              isClick2 = 1;
+              StopKBSlide();
+              KB_2();
+              $('.btu_icon_k').removeClass('active');
+              $('.icon_k2').addClass('active');
+          });
+          btu_k3.click(function() {
+              isClick2 = 1;
+              StopKBSlide();
+              KB_3();
+              $('.btu_icon_k').removeClass('active');
+              $('.icon_k3').addClass('active');
+          });
+          btu_k4.click(function() {
+              isClick2 = 1;
+              StopKBSlide();
+              KB_4();
+              $('.btu_icon_k').removeClass('active');
+              $('.icon_k4').addClass('active');
+          });
+          btu_k5.click(function() {
+              isClick2 = 1;
+              StopKBSlide();
+              KB_5();
+              $('.btu_icon_k').removeClass('active');
+              $('.icon_k5').addClass('active');
+          });
+          btu_k6.click(function() {
+              isClick2 = 1;
+              StopKBSlide();
+              KB_6();
+              $('.btu_icon_k').removeClass('active');
+              $('.icon_k6').addClass('active');
+          });
+          btu_k7.click(function() {
+              isClick2 = 1;
+              StopKBSlide();
+              KB_7();
+              $('.btu_icon_k').removeClass('active');
+              $('.icon_k7').addClass('active');
+          });
+          btu_k8.click(function() {
+              isClick2 = 1;
+              StopKBSlide();
+              KB_8();
+              $('.btu_icon_k').removeClass('active');
+              $('.icon_k8').addClass('active');
+          });
+  
+          function KBSlide() {
+              if (isClick2 == 0) {
+                  var sec = 4000;
+                  setTimeout(function() {
+                      KB_5();
+                  }, sec * 1);
+                  setTimeout(function() {
+                      KB_6();
+                  }, sec * 2);
+                  setTimeout(function() {
+                      KB_7();
+                  }, sec * 3);
+                  setTimeout(function() {
+                      KB_2();
+                  }, sec * 4);
+                  setTimeout(function() {
+                      KB_3();
+                  }, sec * 5);
+                  setTimeout(function() {
+                      KB_4();
+                  }, sec * 6);
+                  setTimeout(function() {
+                      KB_8();
+                  }, sec * 7);
+                  t3 = setTimeout(function() {
+                      KB_8();
+                  }, sec * 7);
+                  t4 = setTimeout(function() {
+                      KB_4();
+                  }, sec * 6);
+              }
+          }
+  
+          function StopKBSlide() {
+              isClick2 = 1;
+              for (var i = (t3 - 7); i < (t4 + 7); i++) {
+                  clearTimeout(i);
+              }
+          }
+  
+          function KB_1() {
+              $(".GE_freeway").removeClass('active');
+              $(".GE_Chakra").removeClass('active');
+              $(".GE_DiscoMode").removeClass('active');
+              $(".GE_FPS").removeClass('active');
+              $(".GE_MMO").removeClass('active');
+              $(".GE_MOBA").removeClass('active');
+              $(".GE_Roulette").removeClass('active');
+              $(".GE_GoldSplash").addClass('active');
+              $('.btu_icon_k').removeClass('active');
+              $('.icon_k1').addClass('active');
+          }
+  
+          function KB_2() {
+              $(".GE_GoldSplash").removeClass('active');
+              $(".GE_Chakra").removeClass('active');
+              $(".GE_DiscoMode").removeClass('active');
+              $(".GE_FPS").removeClass('active');
+              $(".GE_MMO").removeClass('active');
+              $(".GE_MOBA").removeClass('active');
+              $(".GE_Roulette").removeClass('active');
+              $(".GE_freeway").addClass('active');
+              $('.btu_icon_k').removeClass('active');
+              $('.icon_k2').addClass('active');
+          }
+  
+          function KB_3() {
+              $(".GE_GoldSplash").removeClass('active');
+              $(".GE_freeway").removeClass('active');
+              $(".GE_DiscoMode").removeClass('active');
+              $(".GE_FPS").removeClass('active');
+              $(".GE_MMO").removeClass('active');
+              $(".GE_MOBA").removeClass('active');
+              $(".GE_Roulette").removeClass('active');
+              $(".GE_Chakra").addClass('active');
+              $('.btu_icon_k').removeClass('active');
+              $('.icon_k3').addClass('active');
+          }
+  
+          function KB_4() {
+              $(".GE_GoldSplash").removeClass('active');
+              $(".GE_freeway").removeClass('active');
+              $(".GE_Chakra").removeClass('active');
+              $(".GE_FPS").removeClass('active');
+              $(".GE_MMO").removeClass('active');
+              $(".GE_MOBA").removeClass('active');
+              $(".GE_Roulette").removeClass('active');
+              $(".GE_DiscoMode").addClass('active');
+              $('.btu_icon_k').removeClass('active');
+              $('.icon_k4').addClass('active');
+          }
+  
+          function KB_5() {
+              $(".GE_GoldSplash").removeClass('active');
+              $(".GE_freeway").removeClass('active');
+              $(".GE_Chakra").removeClass('active');
+              $(".GE_DiscoMode").removeClass('active');
+              $(".GE_MMO").removeClass('active');
+              $(".GE_MOBA").removeClass('active');
+              $(".GE_Roulette").removeClass('active');
+              $(".GE_FPS").addClass('active');
+              $('.btu_icon_k').removeClass('active');
+              $('.icon_k5').addClass('active');
+          }
+  
+          function KB_6() {
+              $(".GE_GoldSplash").removeClass('active');
+              $(".GE_freeway").removeClass('active');
+              $(".GE_Chakra").removeClass('active');
+              $(".GE_DiscoMode").removeClass('active');
+              $(".GE_FPS").removeClass('active');
+              $(".GE_MOBA").removeClass('active');
+              $(".GE_Roulette").removeClass('active');
+              $(".GE_MMO").addClass('active');
+              $('.btu_icon_k').removeClass('active');
+              $('.icon_k6').addClass('active');
+          }
+  
+          function KB_7() {
+              $(".GE_GoldSplash").removeClass('active');
+              $(".GE_freeway").removeClass('active');
+              $(".GE_Chakra").removeClass('active');
+              $(".GE_DiscoMode").removeClass('active');
+              $(".GE_FPS").removeClass('active');
+              $(".GE_MMO").removeClass('active');
+              $(".GE_Roulette").removeClass('active');
+              $(".GE_MOBA").addClass('active');
+              $('.btu_icon_k').removeClass('active');
+              $('.icon_k7').addClass('active');
+          }
+  
+          function KB_8() {
+              $(".GE_GoldSplash").removeClass('active');
+              $(".GE_freeway").removeClass('active');
+              $(".GE_Chakra").removeClass('active');
+              $(".GE_DiscoMode").removeClass('active');
+              $(".GE_FPS").removeClass('active');
+              $(".GE_MMO").removeClass('active');
+              $(".GE_MOBA").removeClass('active');
+              $(".GE_Roulette").addClass('active');
+              $('.btu_icon_k').removeClass('active');
+              $('.icon_k8').addClass('active');
+          }
+      });
+  </script><!-- feature ajax -->
+<section class="product-feature-list"></section>
+<!-- feature ajax -->
+    <style>
+
+.audio {
+  position: relative;
+}
+
+.audio__pic {
+  width: 100%;
+}
+
+.audio__title {
+  position: absolute;
+  top: 50%;
+  left: 8%;
+  -webkit-transform: translate(0%, -50%);
+          transform: translate(0%, -50%);
+  width: 40%;
+}
+
+@media (max-width: 960px) {
+  .audio__title {
+    width: 90%;
+    margin: 0 auto;
+    position: relative;
+    -webkit-transform: translate(0%, 0%);
+            transform: translate(0%, 0%);
+    top: 0;
+    left: 0;
+    text-align: center;
+  }
+}
+
+.audio__icon {
+  width: 150px;
+  margin-top: 20px;
+  margin-right: 20px;
+}
+
+.audio__icon-small {
+  display: none;
+}
+
+@media (max-width: 960px) {
+  .audio__icon {
+    display: none;
+  }
+  .audio__icon-small {
+    display: inline-block;
+    width: 25%;
+    margin-bottom: 20px;
+  }
+}
+
+</style>
+    
+         <section class="block audio">
+        
+
+        <picture>
+          <source media="(max-width:960px)" srcset="https://storage-asset.msi.com/global/picture/image/feature/nb/vector-gp76/Audio-small.jpg">
+          <img class="audio__pic" src="https://storage-asset.msi.com/global/picture/image/feature/nb/vector-gp76/Audio.jpg" alt="THE WAY MUSIC SHOULD BE">
+        </picture>
+
+        <div class="audio__title">
+          <img class="audio__icon-small" src="https://storage-asset.msi.com/global/picture/image/feature/nb/vector-gp76/nahimic.png" alt="">
+          <img class="audio__icon-small" src="https://storage-asset.msi.com/global/picture/image/feature/nb/vector-gp76/hiRes.png" alt="">
+          <h3 class="msiText">THE WAY MUSIC SHOULD BE</h3>
+          <p class="msiText">
+            Immerse yourself in lossless music and enjoy the premium sound quality with Vector GP Series. 
+            Experience and listen to audio the way it was intended.
+          </p>
+          <img class="audio__icon" src="https://storage-asset.msi.com/global/picture/image/feature/nb/vector-gp76/nahimic.png" alt="">
+          <img class="audio__icon" src="https://storage-asset.msi.com/global/picture/image/feature/nb/vector-gp76/hiRes.png" alt="">
+        </div>
+      </section>    <style>
+.other {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: start;
+      -ms-flex-align: start;
+          align-items: flex-start;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  width: 90%;
+  margin: 0 auto;
+}
+
+.other__box {
+  text-align: center;
+  width: 18%;
+  margin: 0 30px 10%;
+}
+
+@media (max-width: 960px) {
+  .other__box {
+    width: 40%;
+    margin: 30px;
+  }
+}
+
+@media (max-width: 480px) {
+  .other__box {
+    width: 90%;
+    margin: 30px auto;
+  }
+}
+
+.other__box-pic {
+  margin: 0 auto 30px;
+  width: 200px;
+}
+
+@media (max-width: 960px) {
+  .other__box-pic {
+    width: 40%;
+  }
+}
+</style>
+
+      <section class="other sliderOther">
+
+        <div class="other__box">
+          <img class="other__box-pic" src="https://storage-asset.msi.com/global/picture/image/feature/nb/vector-gp76/wifi.png" alt="">
+          <h3 class="msiText">EXTRAORDINARY WIRELESS EXPERIENCE</h3>
+          <p class="msiText" >
+            The latest Wi-Fi 6E delivers stunning speed while keeps the network smooth and stable even when sharing 
+            the network with numerous users.
+          </p>
+        </div>
+
+        <div class="other__box">
+          <img class="other__box-pic" src="https://storage-asset.msi.com/global/picture/image/feature/nb/vector-gp76/msi-center.png" alt="">
+          <h3 class="msiText">GET ALL THE BUFFS</h3>
+          <p class="msiText" >
+            The exclusive MSI Center helps you control and customize your MSI laptop the way you want. 
+          </p>
+        </div>
+
+        <div class="other__box">
+          <img class="other__box-pic" src="https://storage-asset.msi.com/global/picture/image/feature/nb/vector-gp76/app.png" alt="">
+          <h3 class="msiText">CONQUER ALL THE BATTLEFIELDS</h3>
+          <p class="msiText" >
+            MSI App Player gives seamless gaming experience between mobile and laptop, users can multitask 
+            with keyboard and mouse to win games faster and easier in games.
+          </p>
+        </div>
+
+        <div class="other__box">
+          <img class="other__box-pic" src="https://storage-asset.msi.com/global/picture/image/feature/nb/vector-gp76/gg.png" alt="">
+          <h3 class="msiText">STEELSERIES GG</h3>
+          <p class="msiText" >
+            Transform your keyboard into a command center by combining multiple keys into one key command,
+            and sync across all SteelSeries gears. <br>
+            *User interface may vary by models.
+          </p>
+        </div>
+
+      </section>
+      <script>
+
+        $(function() {
+
+            
+            $('.sliderOther').slick({
+                slidesToShow: 4,
+                slidesToScroll: 4,
+ 
+                arrows: false,
+                focusOnSelect: true,
+                responsive: [
+
+                {
+                  breakpoint: 960,
+                  settings: {
+                    slidesToShow: 1,
+                    slidesToScroll: 1,
+                    dots: true,
+                    dotsClass:'slick-dotsGP'
+                    
+                  }
+                }
+
+              ]
+            });
+
+    
+        });
+    </script>    <style>
+  .GP76-IO {
+    overflow: hidden;
+  }
+  
+  .GP76-IO-content {
+      position: relative;
+      z-index: 2
+  }
+  
+  .GP76-IO-laptops {
+      margin: 0% -40% -10px -40%; /* -15%,,, */
+      background: url('https://storage-asset.msi.com/global/picture/image/feature/nb/vector-gp76/OI-BG.jpg') #000;
+      background-size: contain;
+      background-position: center;
+      height: 1150px;
+      position: relative;
+  }
+  
+  .GP76-IO-laptops img {
+      width: 100%;
+  }
+  
+  .GP76-IO-laptops-top {
+      width: 33%; /*40%*/
+      position: absolute;
+      top: 0%; /*12%*/
+      left: 50%;
+      transform: translate(-50%);
+  }
+  
+  .GP76-IO-laptops-left {
+      width: 33%;
+      position: absolute;
+      top: 25%;
+      left: 15%
+  }
+  
+  .GP76-IO-laptops-right {
+      width: 33%;
+      position: absolute;
+      top: 25%;
+      right: 15%
+  }
+  
+  .GP76-IO-laptops ul {
+      position: absolute;
+      top: 0px;
+      left: 0px;
+      text-align: center;
+      width: 100%;
+      height: 100%;
+  }
+  
+  .GP76-IO-laptops ul li {
+      z-index: 33
+  }
+  
+  .GP76-IO-laptops ul img {
+      width: 120px;
+  }
+  
+  .GP76-IO-laptops-top ul li {
+      position: absolute;
+      max-width: 120px;
+      font-size: 12px;
+  }
+  
+  .GP76-IO-laptops-top ul li:nth-child(1) {
+      top: 50%;
+      left: 0%
+  }
+  
+  .GP76-IO-laptops-top ul li:nth-child(2) {
+      top: 55%;
+      left: 10%
+  }
+  
+  .GP76-IO-laptops-top ul li:nth-child(3) {
+      top: 60%;
+      left: 20%
+  }
+  
+  .GP76-IO-laptops-top ul li:nth-child(4) {
+      top: 65%;
+      left: 30%
+  }
+  
+  .GP76-IO-laptops-right ul li {
+      position: absolute;
+      max-width: 118px;
+      font-size: 12px;
+  }
+  
+  .GP76-IO-laptops-right ul li:nth-child(1) {
+      /* top: 70%; */
+      /* left: 16%; */
+      top: 63%;
+      left: 12%
+  }
+  
+  .GP76-IO-laptops-right ul li:nth-child(2) {
+      top: 75%;
+      left: 15%
+  }
+
+  .GP76-IO-laptops-right ul li:nth-child(3) {
+      top: 76%;
+      left: 26%
+  }
+  
+  .GP76-IO-laptops-left ul li {
+      position: absolute;
+      max-width: 118px;
+      font-size: 12px;
+  }
+  
+  .GP76-IO-laptops-left ul li:nth-child(1) {
+      /* top: 68%; */
+      /* right: 0%; */
+      top: 64%;
+      right: -3%
+  }
+  
+  .GP76-IO-laptops-left ul li:nth-child(2) {
+      /* top: 73%; */
+      /* right: 10%; */
+      top: 76%;
+      right: 5%;
+  }
+  
+  @media (min-width: 3000px) {
+    .GP76-IO-laptops-top {
+      width: 33%; /*40%*/
+      position: absolute;
+      top: -9%; /*12%*/
+      left: 50%;
+      transform: translate(-50%);
+    }
+
+
+  }
+
+  @media (max-width: 1599px) {
+      .GP76-IO-laptops {
+          /* margin: -20% -45% -10px -45%; */
+          height: 900px;
+      }
+  }
+  
+  @media (max-width: 1399px) {
+      .GP76-IO-laptops {
+          /* margin: -24% -50% -10px -50%; */
+          height: 768px;
+      }
+  }
+  
+
+  @media (max-width: 991px) {
+
+      .GP76-IO-laptops-top {
+          /*left: 33%*/
+           width: 30%; 
+      }
+  }
+  
+  @media (max-width: 900px) {
+      .GP76-IO-laptops {
+          /* margin: -18% -100% -20px -100%; */
+          height: 680px;
+      }
+      .GP76-IO-laptops-top {
+          width: 30%;
+          top: 5%;
+          /*left: 33%*/
+      }
+      .GP76-IO-laptops-left {
+         width: 32%;
+          top: 28%;
+          left: 15%;
+      }
+      .GP76-IO-laptops-right {
+          width: 30%;
+          top: 25%;
+          right: 20%;
+      }
+  }
+  
+  @media (max-width: 768px) {
+      .GP76-IO-laptops {
+          margin: -22% -100% -20px -100%;
+          height: 640px;
+      }
+      .GP76-IO-laptops-top {
+          width: 32%;
+          /*top: 3%;
+          left: 33%*/
+      }
+      .GP76-IO-laptops-left {
+          width: 33%;
+          top: 30%;
+      }
+      .GP76-IO-laptops-right {
+          width: 33%;
+          /*top: 28%;*/
+          right: 18%
+      }
+  }
+  
+  @media (max-width: 620px) {
+      .GP76-IO-laptops {
+          /* margin: -24% -100% -20px -100%; */
+          height: 1000px;
+      }
+      .GP76-IO-laptops ul img {
+          width: 100px;
+      }
+      .GP76-IO-laptops-top ul li {
+          max-width: 100px;
+          font-size: 10px;
+      }
+      .GP76-IO-laptops-top {
+          width: 50%;
+          top: 0%;
+          left: 60%;
+      }
+      .GP76-IO-laptops-left {
+           width: 50%;
+          top: 20%;
+          left: 4%;
+      }
+      .GP76-IO-laptops-right {
+         width: 50%;
+          top: 45%;
+          right: 10%;
+      }
+  }
+  
+  @media (max-width: 530px) {
+      .GP76-IO-laptops {
+            height: 960px;
+       }
+      .GP76-IO-laptops ul img {
+          width: 80px;
+      }
+      .GP76-IO-laptops-top ul li {
+          max-width: 80px;
+          font-size: 10px;
+      }
+      .GP76-IO-laptops-top {
+          width: 70%;
+          top: -10%;
+          left: 70%
+      }
+      .GP76-IO-laptops-left {
+          width: 70%;
+          top: 10%;
+          left: -15%
+      }
+      .GP76-IO-laptops-right {
+          width: 70%;
+          top: 40%;
+          right: -5%
+      }
+      .GP76-IO-laptops-left ul li:nth-child(1) {
+          top: 68%;
+          right: -4%
+      }
+      .GP76-IO-laptops-left ul li:nth-child(2) {
+          top: 75%;
+          right: 10%
+      }
+      .GP76-IO-laptops-right ul li:nth-child(1) {
+          top: 66%;
+          left: 10%
+      }
+      .GP76-IO-laptops-right ul li:nth-child(2) {
+          top: 77%;
+          left: 14%
+      }
+      .GP76-IO-laptops-right ul li:nth-child(3) {
+          top: 76%;
+          left: 30%
+      }
+  }
+
+  
+</style>
+<div class="GP76-IO GP76">
+  <div class="block">
+      <div class="row">
+          
+
+         
+          <div class="col-xs-12">
+              <div class="GP76-IO-laptops">
+                  <div class="GP76-IO-laptops-top">
+                      <img src="https://storage-asset.msi.com/global/picture/image/feature/nb/vector-gp76/nb1.png" alt="GP76 IO">
+                      <ul>
+                          <li>
+                              <img src="https://storage-asset.msi.com/global/picture/image/feature/nb/vector-gp76/icon-mini-display.png" alt="Mini Display 1.4">
+                              <div>Mini Display 1.4</div>
+                          </li>
+                          <li>
+                              <img src="https://storage-asset.msi.com/global/picture/image/feature/nb/vector-gp76/icon-rj45.png" alt="GP76 IO rj45">
+                              <div>RJ45 </div>
+                          </li>
+                          <li>
+                              <img src="https://storage-asset.msi.com/global/picture/image/feature/nb/vector-gp76/icon-hdmi.png" alt="GP76 IO hdmi">
+                              <div>HDMI (8K@60Hz / 4k@120Hz)</div>
+                          </li>
+                          <li>
+                              <img src="https://storage-asset.msi.com/global/picture/image/feature/nb/vector-gp76/icon-dcin.png" alt="GP76 IO dcin">
+                              <div>AC-in </div>
+                          </li>
+                      </ul>
+                  </div>
+                  <div class="GP76-IO-laptops-left">
+                      <img src="https://storage-asset.msi.com/global/picture/image/feature/nb/vector-gp76/nb2.png" alt="GP76 IO">
+                      <ul>
+                          <li>
+                              <img src="https://storage-asset.msi.com/global/picture/image/feature/nb/vector-gp76/icon-typeaG1.png" alt="GP76 IO typeaG1">
+                              <div>Type -A USB3.2 Gen 1 </div>
+                          </li>
+                          <li>
+                              <img src="https://storage-asset.msi.com/global/picture/image/feature/nb/vector-gp76/icon-typeaG1.png" alt="GP76 IO typeaG1">
+                              <div>Type -A USB3.2 Gen 1 </div>
+                          </li>
+                      </ul>
+                  </div>
+                  <div class="GP76-IO-laptops-right">
+                      <img src="https://storage-asset.msi.com/global/picture/image/feature/nb/vector-gp76/nb3.png" alt="GP76 IO">
+                      <ul>
+                          <li>
+                              <img src="https://storage-asset.msi.com/global/picture/image/feature/nb/vector-gp76/icon-typeaG1.png" alt="GP76 IO typea">
+                              <div>Type -A USB3.2 Gen 1</div>
+                          </li>
+
+                          <li>
+                            <img src="https://storage-asset.msi.com/global/picture/image/feature/nb/vector-gp76/SSD-type-c-icon.png" alt="Type-C">
+                            <div>Type-C USB3.2 Gen2 (w/ DP 1.4)</div>
+                          </li>
+
+                          <li>
+                              <img src="https://storage-asset.msi.com/global/picture/image/feature/nb/vector-gp76/icon-Audio.png" alt="GP76 IO Audio">
+                              <div>Audio combo </div>
+                          </li>
+                      </ul>
+                  </div>
+              </div>
+          </div>
+      </div>
+  </div>
+</div>    <!-- overview -->
+<link rel="stylesheet" href="https://storage-asset.msi.com/frontend/css/product/slick.css" />
+<script type="text/javascript" src="https://storage-asset.msi.com/frontend/js/slick.js"></script>
+<div id="overview" class="gaming">
+    <div class="col-xs-12 col-sm-6 col-md-7 col-lg-7">
+        <div class="htmleaf-container">
+            <div class="slideshow">
+                <div class="slider">
+                                            <div class="item box">
+                            <a class='group pic-1 on position-a' href='http://www.msi.com/Laptop/Vector-GP76-12UX/Gallery' title="Vector GP76 - 12U">
+                            <img src="https://asset.msi.com/resize/image/global/product/product_16389311054baa373b23c893c53d6cbdd37a51e33d.png62405b38c58fe0f07fcef2367d8a9ba1/1024.png" />
+                            </a>
+                        </div>
+                                            <div class="item box">
+                            <a class='group pic-1 on position-a' href='http://www.msi.com/Laptop/Vector-GP76-12UX/Gallery' title="Vector GP76 - 12U">
+                            <img src="https://asset.msi.com/resize/image/global/product/product_1638931105adf43a873e9aab4edc603fab09f65407.png62405b38c58fe0f07fcef2367d8a9ba1/1024.png" />
+                            </a>
+                        </div>
+                                            <div class="item box">
+                            <a class='group pic-1 on position-a' href='http://www.msi.com/Laptop/Vector-GP76-12UX/Gallery' title="Vector GP76 - 12U">
+                            <img src="https://asset.msi.com/resize/image/global/product/product_1638931107e0d2b727ee5c18979851223f44b80e5c.png62405b38c58fe0f07fcef2367d8a9ba1/1024.png" />
+                            </a>
+                        </div>
+                                            <div class="item box">
+                            <a class='group pic-1 on position-a' href='http://www.msi.com/Laptop/Vector-GP76-12UX/Gallery' title="Vector GP76 - 12U">
+                            <img src="https://asset.msi.com/resize/image/global/product/product_16389311078fdb771d50936ce21010bbaf5457bdec.png62405b38c58fe0f07fcef2367d8a9ba1/1024.png" />
+                            </a>
+                        </div>
+                                            <div class="item box">
+                            <a class='group pic-1 on position-a' href='http://www.msi.com/Laptop/Vector-GP76-12UX/Gallery' title="Vector GP76 - 12U">
+                            <img src="https://asset.msi.com/resize/image/global/product/product_1638931109fd0bb771703912e13452a51edade06b7.png62405b38c58fe0f07fcef2367d8a9ba1/1024.png" />
+                            </a>
+                        </div>
+                                    </div>
+            </div>
+        </div>
+    </div>
+    <div class="specifno col-xs-12 col-sm-6 col-md-4 col-lg-4">
+        <h2 class="nbtitle">Vector GP76</h2>
+<ul>
+
+<li>Up to latest 12<sup>th</sup> Gen. Intel<sup>®</sup> Core™ i9 processor</li>
+<li>Windows 11 Home / Windows 11 Pro <br>
+(MSI recommends Windows 11 Pro for business.)</li>
+<li>Up to latest GeForce RTX™ 3080 Laptop GPU 8GB GDDR6</li>
+<li>17.3" QHD(2560x1440), 240Hz Refresh Rate, 100% DCI-P3 (Typical), IPS-Level panel(Optional)</li>
+<li>17.3" FHD(1920x1080), 360Hz Refresh Rate, IPS-Level panel(Optional)</li>
+<li>Cooler Boost 5 with 2 fans and 6 heatpipes</li>
+<li>Per-Key RGB gaming keyboard by SteelSeries</li>
+<li>MSI Center provides exclusive Gaming Mode, brand new SmartAuto, and Ambient Silent AI for best user experience</li>
+<li>MSI App Player for seamless gaming experience between mobile and PC</li>
+<li>The latest Wi-Fi 6E delivers extraordinary wireless experience</li>
+<li>High-Resolution Audio ready</li>
+
+</ul>        
+                    <a class="btn btn-danger" href="http://www.msi.com/Laptop/Vector-GP76-12UX/Specification" id="Bottom_Buynow">
+                Specifications
+            </a>
+                
+        <a class="btn btn-danger bt-buy"  href="http://www.msi.com/Laptop/Vector-GP76-12UX/shopnow" id="Top_Buynow">
+            SHOP NOW        </a>
+
+        <p></p>
+                
+    </div>
+</div>
+<!-- overview end-->    <link href="https://storage-asset.msi.com/global/css/owl.carousel.min.css" rel="stylesheet" type="text/css">
+<script src="https://storage-asset.msi.com/global/js/owl.carousel.min.js"></script>
+<!-- 其他版型會出問題 暫時移除 -->
+<!-- <link href="https://storage-asset.msi.com/template/css/product/common-pd-detail.css" rel="stylesheet" type="text/css"> -->
+<!-- <link href="https://storage-asset.msi.com/template/css/msi-product-2020/common-msi-icons.css" rel="stylesheet" type="text/css"> -->
+<style>
+.recommand a {
+    position: relative;
+}
+#pd-recommand img {
+    width: 100%;
+}
+.tag {
+    position: absolute;
+    top: 0;
+    right: 0;
+    color: #fff;
+}
+.tag__triangle {
+    width: 0;
+    height: 0;
+    border: solid;
+    border-width: 75px;
+    border-bottom: 0;
+    border-right: 0;
+}
+.tag__triangle--Laptop {
+    border-color: #E30613 transparent transparent transparent;
+}
+.tag__triangle--Content-Creation {
+    border-color: #9A8555 transparent transparent transparent;
+}
+.tag__triangle--Workstation {
+    border-color: #86b000 transparent transparent transparent;
+}
+.tag__triangle--Business-Productivity {
+    border-color: #9A8555 transparent transparent transparent;
+}
+.tag__title {
+    font-size: initial;
+    position: absolute;
+    top: 15%;
+    right: 10%;
+}        
+</style>
+<div class="recommand" >
+    <div class="pd-container">
+        <h2>You might also like</h2>
+        <div id="pd-recommand" class="owl-carousel">
+                            <a class="ga-product-recommend" href="http://www.msi.com/Laptop/Raider-GE77-HX-12UX">
+                                        <div class="tag"> 
+                        <div class="tag__triangle tag__triangle--Laptop"></div>
+                        <span class="tag__title">HOT</span> 
+                    </div>
+                                        <img src="https://asset.msi.com/resize/image/global/product/product_1652084089f186edc14f9d018b77a37b5aee4f5a5a.png62405b38c58fe0f07fcef2367d8a9ba1/400.png" alt="Raider-GE77-HX-12UX">
+                    <span class="pd-name">
+                        Raider GE77 HX - 12U                    </span>
+                                        <span class="pd-model">12<sup>th</sup> Gen Intel<sup>&reg;</sup> Core™ processor / GeForce RTX™ 30 Series</span>
+                                    </a>
+                            <a class="ga-product-recommend" href="http://www.msi.com/Laptop/Raider-GE67-HX-12UX">
+                                        <div class="tag"> 
+                        <div class="tag__triangle tag__triangle--Laptop"></div>
+                        <span class="tag__title">HOT</span> 
+                    </div>
+                                        <img src="https://asset.msi.com/resize/image/global/product/product_165206346972b3177230787d73a75770296820b96a.png62405b38c58fe0f07fcef2367d8a9ba1/400.png" alt="Raider-GE67-HX-12UX">
+                    <span class="pd-name">
+                        Raider GE67 HX - 12U                    </span>
+                                        <span class="pd-model">12<sup>th</sup> Gen Intel<sup>&reg;</sup> Core™ processor / GeForce RTX™ 30 Series</span>
+                                    </a>
+                            <a class="ga-product-recommend" href="http://www.msi.com/Laptop/Vector-GP76-HX-12UX">
+                                        <div class="tag"> 
+                        <div class="tag__triangle tag__triangle--Laptop"></div>
+                        <span class="tag__title">HOT</span> 
+                    </div>
+                                        <img src="https://asset.msi.com/resize/image/global/product/product_1652085504516adbb67437857affdffef99c4a9266.png62405b38c58fe0f07fcef2367d8a9ba1/400.png" alt="Vector-GP76-HX-12UX">
+                    <span class="pd-name">
+                        Vector GP76 HX - 12U                    </span>
+                                        <span class="pd-model">12<sup>th</sup> Gen Intel<sup>&reg;</sup> Core™ processor / GeForce RTX™ 30 series</span>
+                                    </a>
+                            <a class="ga-product-recommend" href="http://www.msi.com/Laptop/Vector-GP66-HX-12UX">
+                                        <div class="tag"> 
+                        <div class="tag__triangle tag__triangle--Laptop"></div>
+                        <span class="tag__title">HOT</span> 
+                    </div>
+                                        <img src="https://asset.msi.com/resize/image/global/product/product_1651639238f9a94b3fa418728d50d419ddc74f5fee.png62405b38c58fe0f07fcef2367d8a9ba1/400.png" alt="Vector-GP66-HX-12UX">
+                    <span class="pd-name">
+                        Vector GP66 HX - 12U                    </span>
+                                        <span class="pd-model">12<sup>th</sup> Gen Intel<sup>&reg;</sup> Core™ processor / GeForce RTX™ 30 series</span>
+                                    </a>
+                            <a class="ga-product-recommend" href="http://www.msi.com/Laptop/Stealth-15M-B12UX">
+                                        <div class="tag"> 
+                        <div class="tag__triangle tag__triangle--Laptop"></div>
+                        <span class="tag__title">HOT</span> 
+                    </div>
+                                        <img src="https://asset.msi.com/resize/image/global/product/product_1645069524163af720899d75c0a9d54c03ed864beb.png62405b38c58fe0f07fcef2367d8a9ba1/400.png" alt="Stealth-15M-B12UX">
+                    <span class="pd-name">
+                        Stealth 15M - B12U                    </span>
+                                        <span class="pd-model">12<sup>th</sup> Gen Intel<sup>&reg;</sup> Core™ processor / GeForce RTX™ 30 Series</span>
+                                    </a>
+                            <a class="ga-product-recommend" href="http://www.msi.com/Laptop/Bravo-15-B5EX">
+                                        <div class="tag"> 
+                        <div class="tag__triangle tag__triangle--Laptop"></div>
+                        <span class="tag__title">NEW</span> 
+                    </div>
+                                        <img src="https://asset.msi.com/resize/image/global/product/product_16584619244f0dbe35a8a4685c0246106dac4fe8f4.png62405b38c58fe0f07fcef2367d8a9ba1/400.png" alt="Bravo-15-B5EX">
+                    <span class="pd-name">
+                        Bravo 15 B5E                    </span>
+                                        <span class="pd-model">AMD Ryzen™ 5000 H-Series Processors / AMD Radeon™ RX 6000 Series Graphics</span>
+                                    </a>
+                            <a class="ga-product-recommend" href="http://www.msi.com/Laptop/Stealth-17M-A12UX">
+                                        <div class="tag"> 
+                        <div class="tag__triangle tag__triangle--Laptop"></div>
+                        <span class="tag__title">HOT</span> 
+                    </div>
+                                        <img src="https://asset.msi.com/resize/image/global/product/product_164508887632edd74e41f254af39aef4f5ba83db1f.png62405b38c58fe0f07fcef2367d8a9ba1/400.png" alt="Stealth-17M-A12UX">
+                    <span class="pd-name">
+                        Stealth 17M - A12U                    </span>
+                                        <span class="pd-model">12<sup>th</sup> Gen Intel<sup>&reg;</sup> Core™ processor / GeForce RTX™ 30 Series</span>
+                                    </a>
+                            <a class="ga-product-recommend" href="http://www.msi.com/Laptop/Stealth-GS77-12UX">
+                                        <div class="tag"> 
+                        <div class="tag__triangle tag__triangle--Laptop"></div>
+                        <span class="tag__title">HOT</span> 
+                    </div>
+                                        <img src="https://asset.msi.com/resize/image/global/product/product_1650005024261a1da4b5a02c3a5d2e53f259c2fab5.png62405b38c58fe0f07fcef2367d8a9ba1/400.png" alt="Stealth-GS77-12UX">
+                    <span class="pd-name">
+                        Stealth GS77 - 12U                    </span>
+                                        <span class="pd-model">12<sup>th</sup> Gen Intel<sup>®</sup> Core™ processor / GeForce RTX™ 30 series</span>
+                                    </a>
+                            <a class="ga-product-recommend" href="http://www.msi.com/Laptop/Raider-GE76-12UX">
+                                        <div class="tag"> 
+                        <div class="tag__triangle tag__triangle--Laptop"></div>
+                        <span class="tag__title">HOT</span> 
+                    </div>
+                                        <img src="https://asset.msi.com/resize/image/global/product/product_1642743006001bf035da8f3e4e7579985458bdc810.png62405b38c58fe0f07fcef2367d8a9ba1/400.png" alt="Raider-GE76-12UX">
+                    <span class="pd-name">
+                        Raider GE76 - 12U                    </span>
+                                        <span class="pd-model">12<sup>th</sup> Gen Intel<sup>&reg;</sup> Core™ processor / GeForce RTX™ 30 series</span>
+                                    </a>
+                    </div>
+    </div>
+</div>
+<script>
+    $(function(){
+        $('#pd-recommand').owlCarousel({
+            responsive: {
+                0: {
+                    items: 2
+                },
+                680: {
+                    items: 3
+                },
+                1200: {
+                    items: 4
+                }
+            }
+        });
+    });
+</script>
+    <!-- //NB HDMI NOTEICE -->
+<link rel="stylesheet" href="https://storage-asset.msi.com/global/css/VGA/nv_amd_noteice.css" rel="stylesheet" type="text/css">
+
+<section class="NBHdmi__noteice">
+    <div class="noteice__box">
+        <figure class="noteice__logo">
+            <img src="https://storage-asset.msi.com/global/picture/image/icons/HDMI-logo.svg" class="img-responsive" alt="HDMI logo">
+        </figure>
+        <div class="noteice__title">
+            <p>Intel, the Intel Logo, Intel Inside, Intel Core, and Core Inside are trademarks of Intel Corporation or its subsidiaries in the U.S. and/or other countries.</p>
+            <p>© 2022 NVIDIA Corporation. All rights reserved. NVIDIA, the NVIDIA logo, GeForce, GeForce RTX, and NVIDIA Turing are registered trademarks and/or trademarks of NVIDIA Corporation in the United States and other countries. All other trademarks and copyrights are the property of their respective owners.</p>
+
+            <p>MSI, MSI gaming, dragon, and dragon shield names and logos, as well as any other MSI service or product names or logos displayed on the MSI website, are registered trademarks or trademarks of MSI. The names and logos of third party products and companies shown on our website and used in the materials are the property of their respective owners and may also be trademarks. MSI trademarks and copyrighted materials may be used only with written permission from MSI. Any rights not expressly granted herein are reserved.</p>
+        </div>
+        <div class="noteice__title">
+            <p>All images and descriptions are for illustrative purposes only. Visual representation of the products may not be perfectly accurate. Product specification, functions and appearance may vary by models and differ from country to country. All specifications are subject to change without notice. Although we endeavor to present the most precise and comprehensive information at the time of publication, a small number of items may contain typography or photography errors. Some products and configuration may not be available in all markets or launch time differs. Supplies are limited. We recommend you to check with your local supplier for exact offers and detail specifications.</p>
+            <p>Adobe product box shots reprinted with permission from Adobe Systems Incorporated. Adobe® products are either registered trademarks or trademarks of Adobe Systems Incorporated in the United States and/or other countries.Autodesk screen shots reprinted courtesy of Autodesk, Inc.</p>
+            <p>MIL-STD 810G testing is conducted on select MSI products. The testing is not a representation of MSI products satisfying U.S. Department of Defense (DoD) requirements or for military use. Validation process is done in laboratory conditions. Test results do not guarantee future performance under these test conditions. Damage under such test conditions is not covered by MSI’s standard warranty..</p>
+        </div>
+    </div>
+</section>
+<!-- NB HDMI NOTEICE// -->
+            </section>
+</div>
+    
+    <style>
+.galleryContainer {
+  position: fixed;
+  top: 30%;
+  right: 50px;
+  z-index: 1000;
+}
+
+.galleryContainer .threeDbutton {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 40px;
+  cursor: pointer;
+  -webkit-transition: opacity 0.3s;
+  -moz-transition: opacity 0.3s;
+  transition: opacity 0.3s;
+}
+
+.galleryContainer .threeDbutton:hover {
+  opacity: 0.7;
+}
+
+</style>
+    
+                <footer class="msiFooter">
+    <template v-if="footerTitle.length > 0">
+        <div class="msiFooter__container">
+            <nav class="shortcut">
+                <ul class="shortcut__menu" role="menubar">
+                    <li class="shortcut__item" role="menuitem" v-for="(value, index) in footerTitle" :key="value" @keydown="chooseItem">
+                        <div class="shortcut__field" :role="isMobile ? 'button' : null" :tabindex="isMobile ? 0 : null" :aria-haspopup="isMobile ? true : null" :aria-expanded="isMobile ? false : null" @click="dropdown">{{value}}</div>
+                        <ul class="shortcut__submenu" role="menu">
+                            <li class="shortcut__subitem" role="menuitem" v-for="value in footerMenu[index+6]" :key="value.menu_no">
+                                <a class="shortcut__link" :href='value.url' :tabindex="isMobile ? -1 : null">{{value.title}}</a>
+                            </li>
+                        </ul>
+                    </li>
+                                    </ul>
+            </nav>
+            <nav class="info">
+                <div class="copyright">
+                    <img class="copyright__logo"  width="50" height="15" src="https://storage-asset.msi.com/frontend/imgs/logo-footer.png" alt="msi">
+                                        <p class="copyright__legal">Copyright © 2022 Micro-Star INT&#039;L CO., LTD. All rights reserved.</p>
+                                    </div>
+                <ul class="service">
+                    <li class="service__item">
+                        <a class="service__link" :href="identifyHost + '/page/cookie-policy'">Cookie Policy</a>
+                    </li>
+                    <li class="service__item">
+                        <a class="service__link" :href="identifyHost + '/page/privacy-policy'">Privacy Policy</a>
+                    </li>
+                    <li class="service__item">
+                        <a class="service__link" :href="identifyHost + '/page/website-terms-of-use'">Terms of Use</a>
+                    </li>
+                    <li class="service__item">
+                        <a class="service__link" :href="contactAddress">Contact Us</a>
+                    </li>
+                                        <li class="service__item">
+                        <a class="service__link" href="https://www.msi.com/language">
+                            <img width="16" height="16" src="https://www.msi.com/images/front/global.png" alt="msi icon">
+                            Global / English</a>
+                    </li>
+                                        <li class="service__item" v-if="countryCode === 'us'">
+                        <button type="button" aria-label="Explore your accessibility options" @click="toggleAccessibility">
+                            <svg version="1.2" width="25px" baseProfile="tiny" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 12.96 15.577" xml:space="preserve">
+                                <path width="38px" height="38px" fill="#a1a1a1" d="M8.652,10.444c-0.299,0-0.539,0.24-0.539,0.538c-0.002,1.255-0.672,2.415-1.758,3.043
+                                    c-1.682,0.972-3.833,0.396-4.805-1.284C0.577,11.06,1.152,8.907,2.834,7.937c0.012-0.008,0.023-0.015,0.037-0.021
+                                    c0.251-0.16,0.324-0.494,0.166-0.745c-0.16-0.251-0.493-0.326-0.744-0.167C0.874,7.825,0,9.341,0,10.979
+                                    c-0.001,2.537,2.057,4.596,4.595,4.598c2.536-0.002,4.593-2.057,4.597-4.595C9.191,10.685,8.949,10.444,8.652,10.444z
+                                    M11.907,11.103l-1.644-2.84C10.006,7.816,9.51,7.563,8.997,7.614L7.25,7.791C7.085,7.812,6.934,7.694,6.916,7.528
+                                    C6.91,7.484,6.914,7.439,6.928,7.396l0.777-2.078l2.158,0.635c0.363,0.113,0.75-0.091,0.862-0.455
+                                    c0.112-0.365-0.091-0.751-0.456-0.863l-3.365-0.99c-0.1-0.035-0.213-0.069-0.342-0.103L6.354,3.48
+                                    c-0.079-0.024-0.161-0.031-0.24-0.026c-0.121-0.018-0.246-0.032-0.381-0.04C4.305,3.337,3.711,3.696,3.545,3.841
+                                    C3.375,3.987,3.262,4.2,3.248,4.444C3.244,4.505,3.246,4.566,3.256,4.627l0.663,3.808c0.176,1.018,1.143,1.701,2.161,1.528
+                                    L8.1,9.618c0.49-0.082,0.983,0.119,1.275,0.521l1.26,1.725c0.193,0.265,0.549,0.351,0.842,0.206l0.166-0.082
+                                    c0.313-0.156,0.439-0.536,0.284-0.849C11.92,11.126,11.914,11.114,11.907,11.103z M5.563,2.616c0.723,0.039,1.34-0.514,1.379-1.236
+                                    c0.038-0.723-0.516-1.339-1.238-1.378C4.98-0.038,4.364,0.517,4.325,1.239C4.286,1.961,4.84,2.577,5.563,2.616z M12.758,3.468
+                                    c-0.182-0.092-0.405-0.021-0.497,0.162l-1.47,2.877L8.355,6.376c-0.205-0.012-0.38,0.145-0.391,0.35
+                                    c-0.012,0.205,0.146,0.379,0.35,0.391l2.676,0.143c0.006,0,0.014,0.002,0.02,0.002c0.139,0,0.267-0.08,0.33-0.203l1.579-3.092
+                                    C13.012,3.783,12.939,3.561,12.758,3.468z">
+                                </path>
+                            </svg>
+                        </button>
+                    </li>
+                </ul>
+            </nav>
+        </div>
+    </template>
+    <div v-else class="mask"></div>
+</footer><script src="https://storage-asset.msi.com/frontend/js/vue-3.0.2.prod.min.js"></script>
+<script type="module">
+    const HeaderApp = Vue.createApp({
+        data() {
+            return {
+                prodTemplate: "Gaming",
+                countryCode: 'global',
+                countries: ['sg', 'jp', 'hk', 'my', 'it'],
+                top_nav_1: "",
+                top_nav_2: "",
+                top_nav_3: "",
+                top_nav_4: "",
+                top_nav_5: "",
+                headerMenu: {},
+                landings: {},
+                promotions: {},
+                events: [],
+                articles: {},
+                cases: {},
+                supportLink: '',
+                mobile: false,
+                isShowForm: false,
+                isShowQuickLink: false,
+                searchFilterData: [],
+                showFilterData: false,
+                productList: [],
+                memberHost: window.location.host.includes('account'),
+                IndexOfNBorDT: 0,
+                win11OfNbAndDT: [0, 0]
+            };
+        },
+        computed: {
+            identifyHost() {
+                if (this.memberHost) return this.countryCode === 'global' ? 'https://www.msi.com' : `https://${this.countryCode}.msi.com`
+                return ""
+            }
+        },
+        methods: {
+            showMenu(e) {
+                let btns = document.querySelectorAll('.menu__button'),
+                    menus = document.querySelectorAll(".menu__container"),
+                    i = Array.from(menus).indexOf(e.target.nextElementSibling),
+                    mobileMenus = document.querySelectorAll('.mobileMenu__item--right');
+                if (window.innerWidth <= 1200 && e.target.classList.contains('mobileMenu__item--slide')) {
+                    let mobileMenu = Array.from(mobileMenus).find((mobileMenu, index) => mobileMenu.children[0].textContent === e.target.textContent)
+                    mobileMenu.classList.add('mobileMenu__item--right--active')
+                    mobileMenu.classList.remove('mobileMenu__item--right--disable')
+                    if (/Android|webOS|iPhone|iPad|iPod|BlackBerry|Windows Phone/i.test(navigator.userAgent)) {
+                        mobileMenu.style.height = `calc(100% - ${window.screen.height - window.screen.availHeight}px - ${document.querySelector('.msiHeader__nav').offsetHeight}px)`
+                    } else {
+                        mobileMenu.style.height = `calc(100% - ${document.querySelector('.msiHeader__nav').offsetHeight}px)`
+                    }
+                    document.querySelector('.mobileMenu__container--right').style = `position:fixed;width:100%;height:100%;z-index:1000;left:0;`
+                } else if (window.innerWidth <= 1200 && e.target.parentElement.classList.contains('mobileMenu__item--right--active')) {
+                    e.target.parentElement.classList.remove('mobileMenu__item--right--active')
+                    e.target.parentElement.classList.add('mobileMenu__item--right--disable')
+                    e.target.parentElement.removeAttribute('style')
+                    document.querySelector('.mobileMenu__container--right').removeAttribute('style')
+                } else {
+                    btns.forEach((btn, index) => {
+                        index === i ? btn.classList.toggle('menu__button--active') : btn.classList.remove('menu__button--active')
+                    })
+                    menus.forEach((menu, index) => {
+                        index === i ? menu.classList.toggle('menu__container--active') : menu.classList.remove('menu__container--active')
+                    });
+                }
+            },
+            showSubmenu(e) {
+                let navItem = e.target.parentElement.parentElement.parentElement.parentElement,
+                    i = Array.from(document.querySelectorAll(`.${navItem.classList[1]} .menu__submenu li ${e.target.tagName}`)).indexOf(e.target),
+                    rightMenu = document.querySelectorAll(`.${navItem.classList[1]} .menu__submenu--right > li`);
+                rightMenu.forEach((item, index) => {
+                    if (index != i) {
+                        item.style.display = "none";
+                    }
+                });
+                if (navItem.classList.contains('menu__product')) {
+                    rightMenu[i].style.display = "flex";
+                    this.IndexOfNBorDT = i;
+                } else if (navItem.classList.contains('menu__latest') || navItem.classList.contains('menu__solution')) {
+                    rightMenu[i].style.display = "block";
+                }
+            },
+            changeWallpaper(productIndex, modelIndex, e) {
+                if (productIndex === 0 || productIndex === 1) {
+                    this.IndexOfNBorDT = productIndex;
+                    this.win11OfNbAndDT[productIndex] = modelIndex;
+                }
+                let wallpaper = e.target.parentElement.parentElement.nextElementSibling.children
+                this.headerMenu[1][productIndex]['sub_menu'][modelIndex].image != false ? wallpaper[0].src = this.headerMenu[1][productIndex]['sub_menu'][modelIndex].image : null
+                this.headerMenu[1][productIndex]['sub_menu'][modelIndex].description != null && this.headerMenu[1][productIndex]['sub_menu'][modelIndex].description != '' ? wallpaper[1].innerHTML = this.headerMenu[1][productIndex]['sub_menu'][modelIndex].description : null
+                this.headerMenu[1][productIndex]['sub_menu'][modelIndex].url != null && this.headerMenu[1][productIndex]['sub_menu'][modelIndex].url != '' ? wallpaper[2].href = this.headerMenu[1][productIndex]['sub_menu'][modelIndex].url : null
+                this.headerMenu[1][productIndex]['sub_menu'][modelIndex].title === 'Gaming' || this.headerMenu[1][productIndex]['sub_menu'][modelIndex].title === 'Gaming PCs' ? wallpaper[3].innerHTML = this.headerMenu[1][productIndex].alias : wallpaper[3].innerHTML = ''
+            },
+            toggle() {
+                let left = document.querySelector('.mobileMenu__container--left'),
+                    right = document.querySelector(".mobileMenu__item--right--active")
+                document.querySelector('.msiHeader__menuIconBtn').classList.toggle('msiHeader__menuIconBtn--active')
+                if (document.querySelector('.msiHeader__menuIconBtn--active')) {
+                    document.body.setAttribute('style', 'overflow:hidden')
+                } else {
+                    document.body.removeAttribute('style')
+                    document.querySelector('.mobileMenu__container--right').removeAttribute('style')
+                }
+                if (left.classList.contains('mobileMenu__container--left--active')) {
+                    left.classList.remove('mobileMenu__container--left--active')
+                    left.classList.add('mobileMenu__container--left--disable')
+                } else {
+                    left.classList.remove('mobileMenu__container--left--disable')
+                    left.classList.add('mobileMenu__container--left--active')
+                }
+                if (right) {
+                    right.classList.add('mobileMenu__item--right--disable')
+                    right.classList.remove('mobileMenu__item--right--active')
+                    right.removeAttribute('style')
+                }
+            },
+            showSeries(e) {
+                if (window.innerWidth <= 1200) {
+                    if (e.target.classList.contains('mobileMenu__seriesTitle')) {
+                        e.target.classList.toggle('mobileMenu__seriesTitle--active')
+                        let sumHeight = e.target.nextElementSibling.scrollHeight + e.target.parentElement.parentElement.scrollHeight
+                        e.target.parentElement.parentElement.style.maxHeight = `${sumHeight}px`
+                        e.target.nextElementSibling.style.maxHeight === "" ? e.target.nextElementSibling.style.maxHeight = `${e.target.nextElementSibling.scrollHeight}px` : e.target.nextElementSibling.style.maxHeight = "";
+                    } else if (e.target.classList.contains('mobileMenu__modelTitle')) {
+                        e.target.classList.toggle('mobileMenu__modelTitle--active')
+                        e.target.nextElementSibling.style.maxHeight === "" ? e.target.nextElementSibling.style.maxHeight = `${e.target.nextElementSibling.scrollHeight}px` : e.target.nextElementSibling.style.maxHeight = "";
+                    }
+                }
+            },
+            closeMenu() {
+                document.querySelector('.menu__button--active').classList.remove('menu__button--active')
+                document.querySelector('.menu__container--active').classList.remove('menu__container--active')
+            },
+            showForm() {
+                const isSearch = location.href.split("/")[3] === "search";
+                this.searchText = "";
+                this.isShowForm = !this.isShowForm;
+                this.showFilterData = false;
+                if (isSearch) return this.isShowQuickLink = false;
+                this.isShowQuickLink = true;
+            },
+            fetchProductList() {
+                fetch(`/api/v1/search/product-list`)
+                    .then(res => res.json())
+                    .then(data => {
+                        this.productList = data.list;
+                    })
+                    .catch(error => {
+                        console.warn("%c Error", 'font-size: 20px; color: tomato', error);
+                    })
+            },
+            clearSearchText() {
+                const getString = this.searchText.length;
+                getString ? this.searchText = "" : this.isShowForm = false;
+            },
+            checkIsEmpty(event) {
+                const isEmpty = !event.target.value;
+                if (isEmpty) return this.showFilterData = false;
+            },
+            findProductModel(event) {
+                this.isShowQuickLink = false;
+                this.formatKeyWord(event.target.value);
+                setTimeout(() => {
+                    this.filterProductList(this.searchText);
+                }, 400);
+            },
+            filterProductList(keyWord) {
+                const isEmpty = !keyWord.length;
+                if (isEmpty) return this.searchFilterData = [];
+                this.searchFilterData = this.productList.filter(list => {
+                    const reg = new RegExp(keyWord, "gi");
+                    return reg.test(list);
+                })
+                this.showFilterData = Boolean(this.searchFilterData.length);
+            },
+            toSearchPage() {
+                this.showFilterData = false;
+                location.href = `${this.identifyHost}/search/${this.searchText}`;
+            },
+            productQuickLink(searchItem) {
+                this.showFilterData = false;
+                this.formatKeyWord(searchItem);
+                this.toSearchPage();
+            },
+            formatKeyWord(keyWord) {
+                const reg = /[`~!@#$%^&*()+=|{}':;',/\/\[\].<>/?~！@#￥%……&*（）——+|{}【】‘；：”“’。，、？]/ig;
+                const decode = decodeURI(keyWord);
+                this.searchText = decode.replace(reg, '');
+            }
+        },
+        created() {
+            const isSearch = location.pathname.split("/")[1] === "search";
+            if (isSearch) {
+                this.isShowForm = true;
+                this.isShowQuickLink = false;
+                const isMore = location.pathname.split("/").pop() === "more";
+                const defaultKeyWord = location.pathname.split("/").pop();
+                const moreInfoKeyWord = location.pathname.split("/").slice(-2)[0];
+                isMore ? this.formatKeyWord(moreInfoKeyWord) : this.formatKeyWord(defaultKeyWord);
+            }
+            this.fetchProductList();
+            fetch("/api/v1/navigation/header", {
+                    method: "GET"
+                })
+                .then(res => {
+                    if (res.ok) return res.json()
+                    throw new Error(`${res.status} ${res.statusText}`);
+                })
+                .then(data => {
+                    let {
+                        top_nav_1,
+                        top_nav_2,
+                        top_nav_3,
+                        top_nav_4,
+                        top_nav_5,
+                        navigation_list,
+                        current_landing_list,
+                        current_promotion_list,
+                        current_event_list,
+                        current_blog_list,
+                        current_case_list,
+                        current_support_link
+                    } = data.result;
+                    this.top_nav_1 = top_nav_1,
+                        this.top_nav_2 = top_nav_2,
+                        this.top_nav_3 = top_nav_3,
+                        this.top_nav_4 = top_nav_4,
+                        this.top_nav_5 = top_nav_5,
+                        this.headerMenu = {
+                            ...navigation_list
+                        }
+                    this.landings = {
+                            ...current_landing_list['list']
+                        },
+                        this.promotions = {
+                            ...current_promotion_list
+                        },
+                        this.events = {
+                            ...current_event_list
+                        },
+                        this.articles = {
+                            ...current_blog_list
+                        }
+                    this.cases = {
+                        ...current_case_list
+                    },
+                    this.supportLink = current_support_link
+                })
+                .catch(err => {
+                    console.error(err.message)
+                })
+            window.innerWidth > 1200 ? this.mobile = false : this.mobile = true
+        },
+        mounted() {
+            window.addEventListener('resize', () => {
+                if (window.innerWidth > 1200) {
+                    this.mobile = false
+                    document.querySelector('.msiHeader__menuIconBtn--active') ? document.querySelector('.msiHeader__menuIconBtn--active').click() : null
+                } else {
+                    this.mobile = true
+                }
+            })
+            window.addEventListener('click', (e) => {
+                if (document.querySelector('.menu__button--active') && document.querySelector('.menu__container--active')) {
+                    if (!e.composedPath().includes(document.querySelector('.menu__container--active')) && !e.target.classList.contains('menu__button')) {
+                        document.querySelector('.menu__button--active').classList.remove('menu__button--active')
+                        document.querySelector('.menu__container--active').classList.remove('menu__container--active')
+                    }
+                }
+            })
+        }
+    }).mount(".msiHeader");
+    const FooterApp = Vue.createApp({
+        data() {
+            return {
+                memberHost: window.location.host.includes('account'),
+                countryCode: 'global',
+                footerTitle: [],
+                footerMenu: {},
+                isMobile: false,
+                contactCountry:["br", "latam", "au", "in", "my", "ph", "sg", "nl", "se", "hu", "tr", "ar", "africa"]
+            };
+        },
+        computed: {
+            identifyHost() {
+                if (this.memberHost) return this.countryCode === 'global' ? 'https://www.msi.com' : `https://${this.countryCode}.msi.com/`
+                return ""
+            },
+            contactAddress(){
+                if (this.countryCode == 'cn'){
+                    return '/about/contact-cn-select';
+                }else{
+                    return this.contactCountry.includes(this.countryCode) ? "https://www.msi.com/about/contact-us":"/about/contact-us"
+                }
+            }
+        },
+        methods: {
+            closeMenu() {
+                document.querySelector('.shortcut__field--active').parentElement.setAttribute('aria-expanded', false)
+                document.querySelectorAll('.shortcut__field--active + ul > li > a').forEach(el => el.setAttribute('tabindex', -1))
+                document.querySelector('.shortcut__field--active + ul').removeAttribute('style')
+                document.querySelector('.shortcut__field--active').classList.remove('shortcut__field--active')
+            },
+            dropdown(e) {
+                let maxHeight = e.target.nextElementSibling.style.maxHeight,
+                    scrollHeight = e.target.nextElementSibling.scrollHeight,
+                    openMenu = () => {
+                        e.target.nextElementSibling.style.maxHeight = `${scrollHeight}px`
+                        e.target.classList.add('shortcut__field--active')
+                        e.target.parentElement.setAttribute('aria-expanded', true)
+                        document.querySelectorAll('.shortcut__field--active + ul > li > a').forEach(el => el.removeAttribute('tabindex'))
+                        document.querySelectorAll('.shortcut__field').forEach(field => field != e.target ? field.classList.remove('shortcut__field--active') : null)
+                        document.querySelectorAll('.shortcut__submenu').forEach(list => list === e.target.nextElementSibling ? null : list.removeAttribute('style'))
+                    }
+                if (window.innerWidth > 1200) return
+                if (maxHeight !== '') {
+                    this.closeMenu()
+                } else {
+                    if (document.querySelector('.shortcut__field--active') === null) {
+                        openMenu()
+                    } else {
+                        if (e.target === document.querySelector('.shortcut__field--active')) {
+                            this.closeMenu()
+                        } else {
+                            this.closeMenu()
+                            openMenu()
+                        }
+                    }
+                }
+            },
+            chooseItem(e) {
+                if (e.code === 'Enter') {
+                    this.dropdown(e)
+                }
+                if (document.querySelector('.shortcut__field--active') === null) return
+                if (e.code !== 'Tab') return
+                document.querySelector('.shortcut__field--active + ul').style.overflow = 'initial'
+                if (e.target.classList.contains('shortcut__field')) {
+                    if (e.shiftKey) {
+                        this.closeMenu()
+                    }
+                }
+                if (e.target.classList.contains('shortcut__link')) {
+                    let ul = e.target.parentElement.parentElement,
+                        li = ul.children
+                    if (!e.shiftKey && e.target === li[li.length - 1].children[0]) {
+                        this.closeMenu()
+                    }
+                }
+            },
+            toggleAccessibility() {
+                let accessibilityBtn = document.querySelector('#INDmenu-btn')
+                window.getComputedStyle(accessibilityBtn).display === 'none' ? accessibilityBtn.style.display = 'initial' : accessibilityBtn.style.display = 'none'
+            }
+        },
+        created() {
+            fetch("/api/v1/navigation/footer", {
+                    method: "GET"
+                })
+                .then(res => {
+                    if (res.ok) return res.json()
+                    throw new Error(`${res.status} ${res.statusText}`);
+                })
+                .then((data) => {
+                    let {
+                        footer_nav_1,
+                        footer_nav_2,
+                        footer_nav_3,
+                        footer_nav_4,
+                        footer_nav_5,
+                        footer_list
+                    } = data.result;
+                    this.footerTitle = [footer_nav_1, footer_nav_2, footer_nav_3, footer_nav_4, footer_nav_5]
+                    this.footerMenu = {
+                        ...footer_list
+                    }
+                })
+                .catch(err => {
+                    console.error(err.message)
+                });
+            window.innerWidth > 1200 ? this.isMobile = false : this.isMobile = true
+        },
+        mounted() {
+            window.addEventListener('resize', () => {
+                if (window.innerWidth > 1200) {
+                    this.isMobile = false
+                } else {
+                    this.isMobile = true
+                }
+            })
+        }
+    }).mount(".msiFooter");
+</script>
+
+<style>
+footer {
+    display: inline-block;
+    width: 100%;
+}
+</style>
+
+
+
+        <script src='https://storage-asset.msi.com/template/js/slick.min.js'></script>
+<!-- GS66 speaker canvas -->
+<script src="https://storage-asset.msi.com/event/nb/2018/geforce-rtx-gaming-laptop/js/comparison-slider.js" type="text/javascript"></script>
+<script>
+    jQuery(document).ready(function () {
+        var uuid = Date.now().toString(36) + '_' + Math.random().toString(36).substr(2, 9);
+        $.ajax({
+            url : 'https://www.msi.com/product_ajax/get_2020_nb_feature',
+            type: 'post',
+            data : {'product_link':'Vector-GP76-12UX','preview':'','country_code':'global', uuid:uuid , _token: 'x3r1moONIL0KGFYX9g7Q0WkhKKgzWe7c1Zyg2av7'}
+        }).done(function (data) {
+            $('.product-feature-list').html(data);
+            //can't click again bug fix
+            $('.slick-slide').on('click',function(){
+                if($(window).width() < 768){
+                    $('.nav-tabs').find('li').removeClass('active');
+                }
+            });
+        });
+
+        //old icon slider
+        $(document).on('show.bs.tab', '.nav-tabs-responsive [data-toggle="tab"]', function(e) {
+            var $target = $(e.target);
+            var $tabs = $target.closest('.nav-tabs-responsive');
+            var $current = $target.closest('li');
+            var $parent = $current.closest('li.dropdown');
+            $current = $parent.length > 0 ? $parent : $current;
+            var $next = $current.next();
+            var $prev = $current.prev();
+            var updateDropdownMenu = function($el, position){
+                $el
+                    .find('.dropdown-menu')
+                    .removeClass('pull-xs-left pull-xs-center pull-xs-right')
+                    .addClass( 'pull-xs-' + position );
+            };
+            if($(window).width() < 768){
+                $tabs.find('>li').removeClass('next prev hide');
+            }
+
+            $prev.addClass('prev');
+            $next.addClass('next');
+            if($(window).width() < 768){
+                $next.nextAll().addClass('hide');
+                $prev.prevAll().addClass('hide');
+            }
+            
+            updateDropdownMenu( $prev, 'left' );
+            updateDropdownMenu( $current, 'center' );
+            updateDropdownMenu( $next, 'right' );
+        });
+
+        $('.slider').slick({
+            autoplay:true,
+            autoplaySpeed:3000,
+            draggable: true,
+            arrows: false,
+            dots: true,
+            fade: true,
+            speed: 900,
+            infinite: true,
+            cssEase: 'cubic-bezier(0.7, 0, 0.3, 1)',
+            touchThreshold: 100
+        });
+
+        var btnOn = 0;
+        $('body').on('click','.declare-wrap .more-btn', function(){
+            if( btnOn == 0 ){
+                $('.declare-wrap .m-hide').removeClass('m-no-show');
+                btnOn = 1;
+            }else{
+                $('.declare-wrap .m-hide').addClass('m-no-show');
+                btnOn = 0;
+            }
+        });
+    });
+</script>
+    
+    <script>
+if ($('.allnb__buynow-btn').length > 0) {
+    $('.allnb__buynow-btn').attr("href", productShopNowLink)
+}
+</script>    
+        </body> 
+</html>
