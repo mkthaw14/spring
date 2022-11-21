@@ -54,7 +54,7 @@
 			<div class="row my-3">
 				<a href="#chat" data-hide="1" id="btn-open-messages" class="btn btn-primary mx-3">
 					[
-					<span>1</span>
+					<span id="chat-noti" th:text="${chatRoom.unreadChatMessageCountSendBySiteOwner}"></span>
 					] Messages
 				</a>
 			</div>

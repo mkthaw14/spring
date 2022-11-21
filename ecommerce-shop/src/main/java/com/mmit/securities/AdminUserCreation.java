@@ -35,7 +35,7 @@ public class AdminUserCreation {
 				user1.setPhone("09123456");
 				user1.setName("admin");
 				user1.setAddress("Yangon");
-				user1.setExpired_at(t.plusMinutes(3));
+				//user1.setExpired_at(t.plusMinutes(3));
 
 				User user2 = new User();
 				user2.setEmail("thaw@gmail.com");
@@ -44,7 +44,7 @@ public class AdminUserCreation {
 				user2.setPhone("09123456");
 				user2.setName("thaw");
 				user2.setAddress("Yangon");
-				user2.setExpired_at(t.plusMinutes(3));
+				//user2.setExpired_at(t.plusMinutes(3));
 
 				User user3 = new User();
 				user3.setEmail("saw@gmail.com");
@@ -53,7 +53,7 @@ public class AdminUserCreation {
 				user3.setPhone("09123456");
 				user3.setName("saw");
 				user3.setAddress("Yangon");
-				user3.setExpired_at(t.plusMinutes(3));
+				//user3.setExpired_at(t.plusMinutes(3));
 				
 				User user4 = new User();
 				user4.setEmail("maung@gmail.com");
@@ -62,7 +62,7 @@ public class AdminUserCreation {
 				user4.setPhone("09123456");
 				user4.setName("maung");
 				user4.setAddress("Yangon");
-				user4.setExpired_at(t.plusMinutes(3));
+				//user4.setExpired_at(t.plusMinutes(3));
 				
 				User user5 = new User();
 				user5.setEmail("sayar@gmail.com");
@@ -71,7 +71,7 @@ public class AdminUserCreation {
 				user5.setPhone("09123456");
 				user5.setName("sayar");
 				user5.setAddress("Yangon");
-				user5.setExpired_at(t.plusMinutes(3));
+				//user5.setExpired_at(t.plusMinutes(3));
 				
 				User user6 = new User();
 				user6.setEmail("oil@gmail.com");
@@ -80,15 +80,15 @@ public class AdminUserCreation {
 				user6.setPhone("09123456");
 				user6.setName("oil");
 				user6.setAddress("Yangon");
-				user6.setExpired_at(t.plusMinutes(3));
+				//user6.setExpired_at(t.plusMinutes(3));
 				
-				service.save(user1);
+				service.saveAndFlush(user1);
 
-				service.save(user2);
-				service.save(user3);
-				service.save(user4);
-				service.save(user5);
-				service.save(user6);
+				service.saveAndFlush(user2);
+				service.saveAndFlush(user3);
+				service.saveAndFlush(user4);
+				service.saveAndFlush(user5);
+				service.saveAndFlush(user6);
 			}
 		};
 	}

@@ -11,7 +11,7 @@ import com.mmit.model.entity.UserRole;
 
 public interface UserRepo extends JpaRepository<User, Integer> {
 
-	@Query("Select u from User u Where u.email = :email")
+	@Query(name = "Select u from User u Where u.email = :email")
 	User findUserByEmail(@Param("email") String email);
 
 	@Query("Select u from User u Where u.role = :role")

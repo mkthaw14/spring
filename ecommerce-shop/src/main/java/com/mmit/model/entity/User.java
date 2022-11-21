@@ -11,14 +11,19 @@ import javax.persistence.Enumerated;
 import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
 import javax.persistence.Id;
+import javax.persistence.JoinColumn;
+import javax.persistence.OneToOne;
+import javax.persistence.PostPersist;
 import javax.persistence.Table;
 
 import org.springframework.data.annotation.CreatedDate;
 import org.springframework.data.annotation.LastModifiedDate;
 import org.springframework.data.jpa.domain.support.AuditingEntityListener;
 
+import com.mmit.model.entityListener.UserAuditListener;
+
 @Entity
-@EntityListeners(AuditingEntityListener.class)
+@EntityListeners(UserAuditListener.class)
 @Table(name = "users")
 public class User implements Serializable {
 
@@ -39,13 +44,14 @@ public class User implements Serializable {
 	
 	private LocalDateTime expired_at;
 	
-	@CreatedDate
+
 	private LocalDateTime created_at;
-	@LastModifiedDate
+
 	private LocalDateTime updated_at;
 	
 	@Enumerated(EnumType.STRING)
 	private UserRole role;
+
 
 	public int getId() {
 		return id;
@@ -149,7 +155,6 @@ public class User implements Serializable {
 				+ ", address=" + address + ", created_at=" + created_at + ", updated_at=" + updated_at + ", role="
 				+ role + "]";
 	}
-	
 	
 	
 }

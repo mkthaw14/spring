@@ -11,11 +11,13 @@ import org.springframework.web.bind.annotation.ModelAttribute;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.PostMapping;
 
+import com.mmit.model.entity.CustomerSupportID;
 import com.mmit.model.entity.User;
 import com.mmit.model.service.CategoryService;
+import com.mmit.model.service.ChatRoomService;
 import com.mmit.model.service.ProductService;
 import com.mmit.model.service.UserService;
-import com.mmit.userActivityTracking.ActiveUser;
+
 
 @Controller
 public class HomeController {
@@ -26,8 +28,9 @@ public class HomeController {
 	@Autowired
 	private CategoryService categoryService;
 
+	
 	@Autowired
-	private ActiveUser activeUser;
+	private ChatRoomService chatRoomService;
 	
 	@GetMapping("/")
 	public String home()
@@ -42,9 +45,8 @@ public class HomeController {
 	}
 	
 	@GetMapping("/dashboard")
-	public String adminDashBoard(ModelMap map)
+	public String adminDashBoard()
 	{
-		map.addAttribute("activeUsers", activeUser.users);
 		return "dashboard";
 	}
 	
@@ -63,8 +65,9 @@ public class HomeController {
 	}
 	
 	@GetMapping("/shop/contact")
-	public String goContact()
+	public String goContact(ModelMap map, Principal principal)
 	{
+		map.put("chatRoom", chatRoomService.findChatRoomByUser1AndUser2(principal.getName(), CustomerSupportID.getCustomerSupportChannelId()));
 		return "contact";
 	}
 	

@@ -33,7 +33,7 @@ public class UserService {
 	{
 		User u = repo.findUserByEmail(email);
 		LocalDateTime t = LocalDateTime.now();
-		t = t.plusMinutes(3);
+		t = t.plusMinutes(1);
 		
 		if(u.getExpired_at() == null || u.getExpired_at().isBefore(LocalDateTime.now()))
 		{
@@ -45,10 +45,16 @@ public class UserService {
 		System.out.println(email + " , expired at : " + u.getExpired_at());
 	}
 
-	@Transactional
+
 	public void save(User user) {
 		user.setPassword(encoder.encode(user.getPassword()));
 		repo.save(user);
+	}
+	
+	public void saveAndFlush(User user)
+	{
+		user.setPassword(encoder.encode(user.getPassword()));
+		repo.saveAndFlush(user);
 	}
 	
 	@Transactional
@@ -101,6 +107,7 @@ public class UserService {
 		
 	}
 
+	@Transactional
 	public void deleteCustomerById(int id) throws Exception {
 		
 		User u = repo.findById(id).orElseThrow();

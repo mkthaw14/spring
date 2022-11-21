@@ -1,10 +1,15 @@
 package com.mmit.model.entity;
 
 import java.io.Serializable;
+import java.time.LocalDate;
 import java.time.LocalDateTime;
+import java.time.format.DateTimeFormatter;
 
+import javax.persistence.CascadeType;
 import javax.persistence.Entity;
 import javax.persistence.EntityListeners;
+import javax.persistence.EnumType;
+import javax.persistence.Enumerated;
 import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
 import javax.persistence.Id;
@@ -31,8 +36,21 @@ public class ChatMessage implements Serializable {
 	@ManyToOne
 	private ChatRoom chatRoom;
 	
+	@Enumerated(EnumType.STRING)
+	private MessageStatus messageStatus;
+	
 	@CreatedDate
-	private LocalDateTime created_at;
+	private LocalDateTime createdAt;
+	
+	private String createdTime;
+	private String createdDate;
+	
+	public long getId() {
+		return id;
+	}
+	public void setId(long id) {
+		this.id = id;
+	}
 	
 	public String getSenderName() {
 		return senderName;
@@ -52,11 +70,42 @@ public class ChatMessage implements Serializable {
 	public void setContent(String content) {
 		this.content = content;
 	}
-	public LocalDateTime getCreated_at() {
-		return created_at;
+	public LocalDateTime getCreatedAt() {
+		return createdAt;
 	}
-	public void setCreated_at(LocalDateTime created_at) {
-		this.created_at = created_at;
+	public void setCreatedAt(LocalDateTime createdAt) {
+		this.createdAt = createdAt;
+	}
+	public MessageStatus getMessageStatus() {
+		return messageStatus;
+	}
+	public void setMessageStatus(MessageStatus messageStatus) {
+		this.messageStatus = messageStatus;
+	}
+	public String getCreatedTime() {
+		if(createdAt == null)
+			return "";
+		
+		String pattern = "hh:mm:ss a";
+		String twelveHourFormat = createdAt.format(DateTimeFormatter.ofPattern(pattern));
+		createdTime = twelveHourFormat;
+		return createdTime;
+	}
+	
+	public void setCreatedTime(String createdTime) {
+		this.createdTime = createdTime;
+	}
+	
+	public String getCreatedDate() {
+		if(createdAt == null)
+			return "";
+		
+		createdDate = createdAt.toLocalDate().toString();
+		return createdDate;
+	}
+	
+	public void setCreatedDate(String createdDate) {
+		this.createdDate = createdDate;
 	}
 	
 

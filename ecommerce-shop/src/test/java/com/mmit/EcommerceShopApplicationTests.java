@@ -2,6 +2,7 @@ package com.mmit;
 
 
 
+import java.time.DayOfWeek;
 import java.time.LocalDate;
 import java.time.LocalDateTime;
 import java.time.LocalTime;
@@ -10,6 +11,8 @@ import java.time.format.DateTimeFormatter;
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
+import com.fasterxml.jackson.datatype.jsr310.ser.MonthDaySerializer;
+import java.time.temporal.ChronoUnit;
 
 @SpringBootTest
 class EcommerceShopApplicationTests {
@@ -25,8 +28,6 @@ class EcommerceShopApplicationTests {
 		
 		System.out.println("date hour: " + date.getHour());
 		System.out.println("date2 hour: " + date2.getHour());
-		int diff = date.getHour() - date2.getHour();
-		System.out.println("date diff : " + diff);
 		
 		//System.out.println("currentDate : " + date);
 		//System.out.println("currentTime : " + time.format(DateTimeFormatter.ofPattern(pattern)));

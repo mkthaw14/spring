@@ -16,8 +16,7 @@ import org.springframework.stereotype.Component;
 
 import com.mmit.model.entity.User;
 import com.mmit.model.service.UserService;
-import com.mmit.userActivityTracking.ActiveUser;
-import com.mmit.userActivityTracking.LoggedUser;
+
 
 @Component
 public class UserAuthenticationSuccessHandler implements AuthenticationSuccessHandler {
